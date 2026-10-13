@@ -1,0 +1,82 @@
+{
+  "updated": "2026-10-13",
+  "slug": "blog/how-to-read-pet-food-labels",
+  "type": "post",
+  "date": "2026-10-13",
+  "title": "How to Read Pet Food Labels: A Plain-English Guide",
+  "description": "What dog and cat food labels really tell you: complete vs complementary, AAFCO statements, ingredient lists, “with chicken” naming rules and feeding guides.",
+  "eyebrow": "Pet food",
+  "h1": "How to read pet food labels",
+  "intro": "Pet food packs are full of marketing words. A few parts of the label tell you far more about what’s inside, and whether it’s good value.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1767023024653-3d6f74909ccf",
+    "alt": "A French bulldog eating from a metal bowl",
+    "credit": "Zhen Yao",
+    "creditUrl": "https://unsplash.com/@rex_filmer"
+  },
+  "keywords": [
+    "pet food labels",
+    "dog food label",
+    "cat food label",
+    "complete and balanced",
+    "complementary pet food",
+    "aafco statement",
+    "dog food ingredients"
+  ],
+  "cardText": "Complete vs complementary, ingredient lists and naming rules explained.",
+  "sections": [
+    {
+      "h2": "1. Is it a complete food?",
+      "html": "<p>This is the most important line on the pack.</p><ul><li><strong>US:</strong> look for an AAFCO nutritional adequacy statement saying the food is “complete and balanced” for a life stage, such as growth, adult maintenance or all life stages.</li><li><strong>UK and EU:</strong> “complete” means it can be fed on its own. “Complementary” means it must be fed with other food, which is common for treats, toppers and some wet foods.</li></ul>"
+    },
+    {
+      "h2": "2. The name tells you how much of an ingredient is in it",
+      "html": "<p>In the US, AAFCO naming rules mean that, broadly:</p><ul><li>“Chicken Dog Food” must be mostly chicken (at least 95% of the product, not counting water).</li><li>“Chicken Dinner”, “Platter” or “Formula” must contain at least 25% chicken.</li><li>“With Chicken” needs only 3% chicken.</li><li>“Chicken Flavor” needs only enough chicken to be detected.</li></ul><p>The UK and EU follow similar principles in the FEDIAF labelling code, so “with” an ingredient usually means a smaller amount than a food named after it.</p>"
+    },
+    {
+      "h2": "3. The ingredient list",
+      "html": "<p>Ingredients are listed in descending order by weight. Fresh meat contains a lot of water, so a meat listed first may weigh less once the food is made than a dry ingredient further down.</p>"
+    },
+    {
+      "h2": "4. Analytical constituents (guaranteed analysis)",
+      "html": "<p>This shows protein, fat, fibre and moisture (and ash in the UK and EU). To compare wet and dry foods fairly, you need to account for the very different moisture levels.</p>"
+    },
+    {
+      "h2": "5. Feeding guide and the real cost",
+      "html": "<p>Use the feeding guide to work out how long a pack lasts for your pet, then the <a href=\"/pet-food/\">cost per day</a>. Feeding guides are a starting point: adjust for your pet’s body condition and activity, and ask your vet if you’re unsure.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Does “natural” mean anything on pet food?",
+      "a": "In the US, AAFCO has a definition of “natural” for feed. Elsewhere, rules are less specific. Either way, it doesn’t tell you whether a food is complete or right for your pet."
+    },
+    {
+      "q": "Is a higher-protein food always better?",
+      "a": "Not necessarily. The right food depends on your pet’s life stage, health and activity level. Your vet can advise."
+    }
+  ],
+  "sources": [
+    {
+      "title": "AAFCO: Reading labels",
+      "url": "https://www.aafco.org/"
+    },
+    {
+      "title": "US FDA: Pet food",
+      "url": "https://www.fda.gov/animal-veterinary/animal-foods-feeds/pet-food"
+    },
+    {
+      "title": "FEDIAF: European Pet Food Industry",
+      "url": "https://europeanpetfood.org/"
+    },
+    {
+      "title": "UK Pet Food",
+      "url": "https://www.ukpetfood.org/"
+    }
+  ],
+  "related": [
+    "pet-food",
+    "save-on-pet-supplies",
+    "dog-supplies"
+  ]
+}

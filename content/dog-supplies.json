@@ -1,0 +1,81 @@
+{
+  "updated": "2026-10-13",
+  "slug": "dog-supplies",
+  "nav": "Dogs",
+  "navOrder": 3,
+  "title": "Dog Supplies Guide: Beds, Harnesses, Crates & Toys",
+  "description": "Compare dog supplies that last: how to size a harness, crate and bed, which toys are safe, and the essentials every new dog or puppy owner needs to buy.",
+  "keywords": [
+    "dog supplies",
+    "dog accessories",
+    "dog bed",
+    "dog harness",
+    "dog lead",
+    "dog leash",
+    "dog crate",
+    "dog toys",
+    "dog collar",
+    "dog bowl",
+    "puppy essentials"
+  ],
+  "cardText": "Beds, harnesses, crates, toys and ID: how to choose kit that fits and lasts.",
+  "eyebrow": "Dog supplies",
+  "h1": "Dog supplies: how to choose kit that fits and lasts",
+  "intro": "The right size and the right material save you money, because you only buy once. Here’s what to look for in the everyday essentials for dogs and puppies.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1591946614720-90a587da4a36",
+    "alt": "A golden retriever mix holding a striped plush elephant toy",
+    "credit": "FLOUFFY",
+    "creditUrl": "https://unsplash.com/@theflouffy"
+  },
+  "searchPlaceholder": "Search dog guides, e.g. “harness” or “crate”",
+  "partnersTitle": "Compare dog supply retailers",
+  "sections": [
+    {
+      "h2": "Collars, ID tags and microchips",
+      "html": "<ul><li><strong>UK:</strong> by law, dogs in public places must wear a collar with a tag showing the owner’s name and address, and dogs must be microchipped with up-to-date details.</li><li><strong>US and EU:</strong> rules vary by state, city and country, but an ID tag and a registered microchip are the best way to get a lost dog home.</li><li>You should be able to fit two fingers under a flat collar.</li></ul>"
+    },
+    {
+      "h2": "Harness or collar for walks?",
+      "html": "<p>Many owners use a <strong>harness</strong> for walking, especially for small dogs, flat-faced breeds and dogs that pull, because it spreads pressure away from the neck. Measure your dog’s chest and neck and check the size chart: a good fit lets the dog move its shoulders freely and won’t slip off backwards. A <strong>lead or leash</strong> of around 1.2–2 m (4–6 ft) suits everyday walks.</p>"
+    },
+    {
+      "h2": "Crates and beds",
+      "html": "<ul><li><strong>Crates:</strong> your dog should be able to stand up, turn around and lie down comfortably. For puppies, a crate with a divider lets you buy the adult size once.</li><li><strong>Beds:</strong> measure your dog lying stretched out. Washable covers save money over time. Older or larger dogs may benefit from supportive (orthopaedic) foam.</li><li><strong>Chewers:</strong> pick tough, chew-resistant beds and avoid stuffing a puppy might swallow.</li></ul>"
+    },
+    {
+      "h2": "Toys and enrichment",
+      "html": "<ul><li>Choose toys too big to swallow and replace them once they break apart.</li><li>Food puzzles and lick mats slow down fast eaters and keep dogs busy.</li><li>Avoid cooked bones, which can splinter.</li><li>Rotate a few toys rather than buying new ones every week: it keeps them interesting.</li></ul>"
+    },
+    {
+      "h2": "New dog checklist",
+      "html": "<p>Bowls, food, collar and ID tag, lead and harness, bed, crate (optional), poop bags, a brush suited to the coat, toys and chews, a car restraint or crate, and an appointment with a vet. See our full <a href=\"/blog/new-puppy-checklist/\">new puppy checklist</a>.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What size crate does my dog need?",
+      "a": "One where your dog can stand, turn around and lie down comfortably. For a puppy, buy the adult size with a divider and move it as they grow."
+    },
+    {
+      "q": "Do dogs have to be microchipped?",
+      "a": "In England, Scotland and Wales, yes: dogs must be microchipped and the details kept up to date. Rules elsewhere vary, but microchipping is widely recommended."
+    }
+  ],
+  "sources": [
+    {
+      "title": "GOV.UK: Get your dog or cat microchipped",
+      "url": "https://www.gov.uk/get-your-dog-cat-microchipped"
+    },
+    {
+      "title": "AVMA: American Veterinary Medical Association",
+      "url": "https://www.avma.org/"
+    }
+  ],
+  "related": [
+    "pet-food",
+    "dog-grooming",
+    "dog-walkers-and-pet-sitters",
+    "flea-tick-and-worming"
+  ]
+}

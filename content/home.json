@@ -1,15 +1,170 @@
 {
+  "updated": "2026-10-13",
   "slug": "",
-  "title": "PetSavings: Pet supplies, food, insurance and accessories co",
-  "description": "Pet supplies, food, insurance and accessories compared for dogs, cats and small pets, with savings guides and help finding trusted local pet services. Free to use, part of the Shmor.ai network.",
-  "eyebrow": "Part of the Shmor.ai network",
-  "h1": "PetSavings",
-  "intro": "Pet supplies, food, insurance and accessories compared for dogs, cats and small pets, with savings guides and help finding trusted local pet services.",
-  "related": [],
+  "title": "PetSavings: Compare Pet Food, Supplies & Insurance",
+  "description": "Compare pet food, supplies and insurance for dogs, cats and small pets, plus money-saving guides and help finding trusted local groomers, sitters and kennels.",
+  "eyebrow": "Dogs · Cats · Small pets",
+  "h1": "Everything your pet needs, for less.",
+  "h1Html": "Everything your pet needs, <span class=\"hl\">for less.</span>",
+  "intro": "Independent guides to pet food, supplies and pet insurance for owners in the US, UK and Europe. Compare what matters, spot the real cost and find trusted local groomers, walkers and kennels near you.",
+  "searchPlaceholder": "Try “grain-free dog food” or “cat insurance”",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1450778869180-41d0601e046e",
+    "alt": "A white dog and a grey cat cuddling on the grass",
+    "credit": "Krista Mangulsone",
+    "creditUrl": "https://unsplash.com/@krista"
+  },
+  "chips": [
+    {
+      "label": "Pet food",
+      "slug": "pet-food"
+    },
+    {
+      "label": "Pet insurance",
+      "slug": "pet-insurance"
+    },
+    {
+      "label": "Flea & worming",
+      "slug": "flea-tick-and-worming"
+    },
+    {
+      "label": "Groomers",
+      "slug": "dog-grooming"
+    },
+    {
+      "label": "Walkers & sitters",
+      "slug": "dog-walkers-and-pet-sitters"
+    },
+    {
+      "label": "Save money",
+      "slug": "save-on-pet-supplies"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "strip",
+      "position": "top",
+      "items": [
+        {
+          "icon": "shield",
+          "title": "Independent.",
+          "text": "We don’t sell pet products ourselves."
+        },
+        {
+          "icon": "paw",
+          "title": "Dogs, cats and small pets",
+          "text": "in one place."
+        },
+        {
+          "icon": "globe",
+          "title": "US, UK and EU",
+          "text": "rules and wording explained."
+        },
+        {
+          "icon": "wallet",
+          "title": "Free to use.",
+          "text": "You always buy direct."
+        }
+      ]
+    },
+    {
+      "type": "tiles",
+      "position": "top",
+      "title": "Shop and compare by pet",
+      "items": [
+        {
+          "slug": "dog-supplies",
+          "title": "Dog supplies",
+          "badge": "Dogs",
+          "text": "Beds, harnesses, crates, toys and the essentials for every life stage."
+        },
+        {
+          "slug": "cat-supplies",
+          "title": "Cat supplies",
+          "badge": "Cats",
+          "text": "Litter, scratchers, carriers and toys."
+        },
+        {
+          "slug": "small-pet-supplies",
+          "title": "Small pets",
+          "badge": "Rabbits & more",
+          "text": "Rabbits, guinea pigs, hamsters, birds and fish."
+        },
+        {
+          "slug": "pet-food",
+          "title": "Pet food",
+          "badge": "Food",
+          "text": "Dry, wet, fresh and raw compared."
+        },
+        {
+          "slug": "pet-insurance",
+          "title": "Pet insurance",
+          "badge": "Cover",
+          "text": "Policy types and what to check."
+        }
+      ]
+    }
+  ],
+  "highlightsTitle": "Why owners start here",
+  "highlights": [
+    {
+      "title": "Compare like for like",
+      "text": "Cost per day, not per bag. Cover limits, not just the monthly premium."
+    },
+    {
+      "title": "Spot the real savings",
+      "text": "Subscriptions, bulk buys, prescriptions and loyalty schemes, explained honestly."
+    },
+    {
+      "title": "Trusted local help",
+      "text": "How to check groomers, walkers, sitters and kennels before you book."
+    },
+    {
+      "title": "Pet-safe advice",
+      "text": "Plain-English guides with links to vets, charities and official sources."
+    }
+  ],
   "sections": [
     {
-      "h2": "Why use PetSavings?",
-      "html": "<p>Pet supplies, food, insurance and accessories compared for dogs, cats and small pets, with savings guides and help finding trusted local pet services.</p>"
+      "h2": "Compare pet products and deals without the guesswork",
+      "html": "<p>Pet prices vary a lot between online pet stores, supermarkets, subscription brands, independent pet shops and vet practices. The cheapest-looking deal isn’t always the best value, so our guides show you how to compare properly:</p><ul><li><strong>Food:</strong> compare the <a href=\"/pet-food/\">cost per day</a> at your pet’s feeding amount, not the price per bag or tin.</li><li><strong>Insurance:</strong> compare the <a href=\"/pet-insurance/\">type of cover, limits and excess</a> before the premium.</li><li><strong>Health care:</strong> flea, tick and worm treatments can cost less with a <a href=\"/flea-tick-and-worming/\">written prescription or a vet health plan</a>.</li><li><strong>Everyday kit:</strong> buy <a href=\"/dog-supplies/\">beds, crates and harnesses</a> that fit your pet now and later, so you only buy once.</li></ul>"
+    },
+    {
+      "h2": "Recommended local pet services",
+      "html": "<p>Some things are best done locally. Our <a href=\"/local-pet-services/\">local pet services guide</a> explains what to look for in a <a href=\"/dog-grooming/\">dog groomer</a>, a <a href=\"/dog-walkers-and-pet-sitters/\">dog walker or pet sitter</a>, and <a href=\"/kennels-and-catteries/\">boarding kennels and catteries</a>: licences, insurance, qualifications and the questions to ask on a first visit.</p><p>Run a pet business? We’re building a list of recommended local suppliers. <a href=\"https://shmor.ai/partners/\">Get in touch</a> to be considered.</p>"
+    },
+    {
+      "h2": "How PetSavings makes money",
+      "html": "<p>PetSavings is free to use. Some links on the site may be affiliate links: if you buy through them, the retailer or insurer may pay us a commission. It never changes the price you pay, and it doesn’t decide what we write. Read <a href=\"https://shmor.ai/affiliate-disclosure/\">how we make money</a>.</p>"
     }
-  ]
+  ],
+  "faqs": [
+    {
+      "q": "Is PetSavings free to use?",
+      "a": "Yes. Our guides are free. When you buy, you deal directly with the retailer, insurer or local business and agree their terms."
+    },
+    {
+      "q": "Do you sell pet food or insurance?",
+      "a": "No. PetSavings is an independent guide and comparison site. We don’t sell products, arrange insurance or give veterinary advice."
+    },
+    {
+      "q": "Do you cover the US, UK and Europe?",
+      "a": "Yes. We explain where rules differ, such as pet food labelling, insurance regulation, prescriptions and licensing for kennels and home boarders."
+    },
+    {
+      "q": "Is this veterinary advice?",
+      "a": "No. Our guides are general information. If you’re worried about your pet’s health, diet or medication, speak to a vet."
+    }
+  ],
+  "related": [
+    "pet-food",
+    "pet-insurance",
+    "flea-tick-and-worming",
+    "save-on-pet-supplies",
+    "local-pet-services",
+    "dog-grooming"
+  ],
+  "relatedTitle": "Popular pet guides",
+  "latestPosts": 3,
+  "ctaTitle": "What does your pet need?"
 }

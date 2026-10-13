@@ -1,0 +1,89 @@
+{
+  "updated": "2026-10-13",
+  "slug": "pet-insurance",
+  "nav": "Insurance",
+  "navOrder": 2,
+  "title": "Pet Insurance Compared: Types of Cover Explained",
+  "description": "Compare pet insurance for dogs and cats: lifetime, time-limited and accident-only cover, excess, co-pay, reimbursement and exclusions in the US, UK and EU.",
+  "keywords": [
+    "pet insurance",
+    "dog insurance",
+    "cat insurance",
+    "lifetime pet insurance",
+    "cheap pet insurance",
+    "best pet insurance",
+    "puppy insurance",
+    "kitten insurance",
+    "pet insurance comparison",
+    "vet bills",
+    "accident and illness pet insurance"
+  ],
+  "cardText": "Lifetime, time-limited and accident-only cover explained, plus what to check before you buy.",
+  "eyebrow": "Dog and cat insurance",
+  "h1": "Pet insurance compared: what the cover types mean",
+  "intro": "Pet insurance helps with unexpected vet bills, but policies differ far more than the monthly price suggests. Here’s how to compare cover for dogs and cats.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1654895716780-b4664497420d",
+    "alt": "A person holding a small dog in their arms",
+    "credit": "Anya Prygunova",
+    "creditUrl": "https://unsplash.com/@aprygunova"
+  },
+  "searchPlaceholder": "Search pet insurance guides",
+  "partnersTitle": "Compare pet insurers",
+  "sections": [
+    {
+      "h2": "Types of pet insurance (UK and Europe)",
+      "html": "<div class=\"table-wrap\"><table><thead><tr><th>Type</th><th>How it works</th></tr></thead><tbody><tr><td><strong>Lifetime</strong></td><td>A vet fee limit each year that refreshes when you renew, so ongoing conditions can stay covered as long as you keep the policy.</td></tr><tr><td><strong>Maximum benefit</strong></td><td>A set amount per condition. Once it’s used up, that condition is no longer covered.</td></tr><tr><td><strong>Time-limited</strong></td><td>Covers each condition for a set period, often 12 months, then it’s excluded.</td></tr><tr><td><strong>Accident-only</strong></td><td>Covers injuries from accidents but not illness. Usually the cheapest option.</td></tr></tbody></table></div>"
+    },
+    {
+      "h2": "How US pet insurance works",
+      "html": "<p>Most US plans are <strong>accident and illness</strong> or <strong>accident-only</strong>. You usually pay the vet, then claim back. You’ll choose:</p><ul><li><strong>Reimbursement rate:</strong> the share of the eligible bill the plan pays back.</li><li><strong>Deductible:</strong> what you pay before the plan pays. Check whether it’s annual or per condition.</li><li><strong>Annual limit:</strong> the most the plan pays each year (some are unlimited).</li><li><strong>Wellness add-ons:</strong> optional extras for routine care such as vaccines. They aren’t the same as insurance, so check they’re worth the cost.</li></ul><p>Pet insurance is regulated by each state. Many states have adopted the NAIC Pet Insurance Model Act, which standardises key definitions and disclosures.</p>"
+    },
+    {
+      "h2": "What to check before you buy",
+      "html": "<ul><li><strong>Vet fee limit</strong>: is it per year, per condition or for life?</li><li><strong>Excess and co-payment</strong>: many UK policies add a percentage co-payment once a pet reaches a certain age.</li><li><strong>Pre-existing conditions</strong>: usually excluded. Some insurers may cover a condition after a symptom-free period.</li><li><strong>Waiting periods</strong>: illness cover often starts a few days or weeks after the policy begins.</li><li><strong>Exclusions</strong>: dental, behavioural treatment, hereditary conditions and routine care vary a lot between policies.</li><li><strong>Age limits</strong>: some insurers won’t start a new policy for older pets.</li><li><strong>Renewal price</strong>: premiums usually rise as pets age, so check the price each year.</li></ul>"
+    },
+    {
+      "h2": "Ways to keep the cost down",
+      "html": "<ul><li>Insure while your pet is young and healthy, so fewer conditions are excluded.</li><li>Choose a higher excess or deductible if you could comfortably afford it.</li><li>Ask about multi-pet discounts.</li><li>Compare at renewal, but remember that switching may mean existing conditions aren’t covered by the new insurer.</li><li>Keep up with vaccinations and parasite control: some policies won’t pay for preventable illness.</li></ul>"
+    },
+    {
+      "h2": "If something goes wrong",
+      "html": "<p>Complain to the insurer first. In the UK, if you’re not happy with the final response you can take it to the <strong>Financial Ombudsman Service</strong> for free. In the US, contact your state’s insurance department.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Is pet insurance worth it?",
+      "a": "It depends on whether you could pay a large, unexpected vet bill yourself. Insurance spreads the cost, but you’ll still pay the excess and anything above your limits."
+    },
+    {
+      "q": "Does pet insurance cover pre-existing conditions?",
+      "a": "Usually not. Conditions that showed signs before cover started are normally excluded, which is why many owners insure their pet young."
+    },
+    {
+      "q": "Who regulates pet insurance in the UK?",
+      "a": "The Financial Conduct Authority (FCA). Unresolved complaints can go to the Financial Ombudsman Service."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Financial Conduct Authority (UK)",
+      "url": "https://www.fca.org.uk/"
+    },
+    {
+      "title": "Financial Ombudsman Service (UK)",
+      "url": "https://www.financial-ombudsman.org.uk/"
+    },
+    {
+      "title": "NAIC: National Association of Insurance Commissioners (US)",
+      "url": "https://content.naic.org/"
+    }
+  ],
+  "related": [
+    "save-on-pet-supplies",
+    "flea-tick-and-worming",
+    "pet-food",
+    "local-pet-services"
+  ]
+}

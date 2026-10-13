@@ -1,0 +1,75 @@
+{
+  "updated": "2026-10-13",
+  "slug": "dog-walkers-and-pet-sitters",
+  "short": "Walkers & sitters",
+  "title": "Dog Walkers & Pet Sitters: How to Choose Safely",
+  "description": "How to find a trusted dog walker or pet sitter near you: insurance, background checks, group walk limits, home boarding licences and the questions to ask first.",
+  "keywords": [
+    "dog walker",
+    "dog walker near me",
+    "dog walking",
+    "pet sitter",
+    "pet sitter near me",
+    "cat sitter",
+    "house sitter",
+    "dog sitter",
+    "home boarding",
+    "drop in pet visits"
+  ],
+  "cardText": "Insurance, background checks, group walks and home boarding rules.",
+  "eyebrow": "Local pet services",
+  "h1": "Dog walkers and pet sitters: how to choose safely",
+  "intro": "You’re handing over your keys and your pet, so a walker or sitter needs to be reliable as well as kind. Here’s what to check.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1530700131180-d43d9b8cc41f",
+    "alt": "A person walking a golden retriever on a city street",
+    "credit": "Andriyko Podilnyk",
+    "creditUrl": "https://unsplash.com/@andriyko"
+  },
+  "searchPlaceholder": "Search walker and sitter guides",
+  "partnersTitle": "Compare walking and sitting services",
+  "sections": [
+    {
+      "h2": "Types of service",
+      "html": "<ul><li><strong>Solo or group dog walks</strong></li><li><strong>Drop-in visits</strong> for cats and small pets: feeding, litter and company</li><li><strong>House sitting:</strong> the sitter stays in your home with your pets</li><li><strong>Home boarding:</strong> your dog stays in the sitter’s home</li><li><strong>Dog day care:</strong> at a centre or a carer’s home</li></ul>"
+    },
+    {
+      "h2": "What to check",
+      "html": "<ul><li><strong>Insurance</strong> covering public liability and care, custody and control of your pet, and key cover if they hold your keys.</li><li><strong>Background checks:</strong> a DBS check in the UK, or a background check in the US.</li><li><strong>Licences:</strong> in England, home boarders and dog day care need a council licence. Dog walkers don’t, but some councils limit how many dogs one person can walk in public spaces.</li><li><strong>Pet first aid training</strong> and an emergency plan, including your vet’s details.</li><li><strong>Professional membership:</strong> in the US, groups such as NAPPS and Pet Sitters International offer membership and training.</li></ul>"
+    },
+    {
+      "h2": "Questions to ask at a meet-and-greet",
+      "html": "<ol><li>How many dogs do you walk at once, and do you walk them on or off lead?</li><li>How do you transport dogs, and are they secured in the vehicle?</li><li>Will the same person visit each time?</li><li>How do you send updates, and what happens if you’re ill?</li><li>Can I see your insurance certificate and any licence?</li></ol>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Do dog walkers need a licence?",
+      "a": "Not usually in the UK, but some councils set limits on the number of dogs per walker in public spaces. Home boarding and dog day care need a licence in England."
+    },
+    {
+      "q": "What insurance should a pet sitter have?",
+      "a": "Look for public liability insurance plus care, custody and control cover, which protects pets in their care. Key cover is useful if they hold your keys."
+    }
+  ],
+  "sources": [
+    {
+      "title": "GOV.UK: Animal activities licensing (England)",
+      "url": "https://www.gov.uk/government/publications/animal-activities-licensing-guidance-for-local-authorities"
+    },
+    {
+      "title": "NAPPS: National Association of Professional Pet Sitters (US)",
+      "url": "https://petsitters.org/"
+    },
+    {
+      "title": "Pet Sitters International (US)",
+      "url": "https://www.petsit.com/"
+    }
+  ],
+  "related": [
+    "local-pet-services",
+    "kennels-and-catteries",
+    "dog-grooming",
+    "pet-insurance"
+  ]
+}

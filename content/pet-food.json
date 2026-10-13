@@ -1,0 +1,96 @@
+{
+  "updated": "2026-10-13",
+  "slug": "pet-food",
+  "nav": "Pet food",
+  "navOrder": 1,
+  "title": "Compare Pet Food: Dog & Cat Food Types and Costs",
+  "description": "How to compare dog and cat food: dry, wet, fresh and raw diets, what “complete” means on the label, and how to work out the real cost per day for your pet.",
+  "keywords": [
+    "dog food",
+    "cat food",
+    "pet food",
+    "cheap dog food",
+    "best dog food",
+    "grain free dog food",
+    "wet cat food",
+    "dry dog food",
+    "fresh dog food",
+    "raw dog food",
+    "puppy food",
+    "kitten food",
+    "senior dog food",
+    "pet food subscription"
+  ],
+  "cardText": "Dry, wet, fresh and raw compared, plus how to work out the real cost per day.",
+  "eyebrow": "Dog food · Cat food",
+  "h1": "Pet food compared: types, labels and the real cost",
+  "intro": "Food is the biggest regular cost for most pet owners. Here’s how to compare dog and cat food fairly, read the label and find savings without compromising on nutrition.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1714068691210-073dc52c6c1d",
+    "alt": "A brown and white dog eating from a food bowl",
+    "credit": "Ayla Verschueren",
+    "creditUrl": "https://unsplash.com/@moob"
+  },
+  "searchPlaceholder": "Search pet food guides, e.g. “kitten food”",
+  "partnersTitle": "Compare pet food retailers",
+  "sections": [
+    {
+      "h2": "Types of pet food",
+      "html": "<div class=\"table-wrap\"><table><thead><tr><th>Type</th><th>Good to know</th></tr></thead><tbody><tr><td><strong>Dry (kibble)</strong></td><td>Usually the lowest cost per day. Keeps well once opened. Easy to measure and use in puzzle feeders.</td></tr><tr><td><strong>Wet (cans, pouches, trays)</strong></td><td>Higher moisture, which can help cats who drink little. Usually costs more per day than dry.</td></tr><tr><td><strong>Mixed feeding</strong></td><td>Part dry, part wet. Reduce each portion so the total matches your pet’s daily needs.</td></tr><tr><td><strong>Fresh / cooked subscriptions</strong></td><td>Delivered, portioned meals, often frozen or chilled. Convenient but usually the most expensive option.</td></tr><tr><td><strong>Raw</strong></td><td>Raw meat diets carry a risk of bacteria such as <em>Salmonella</em> for pets and people. Talk to your vet first and follow strict hygiene.</td></tr></tbody></table></div>"
+    },
+    {
+      "h2": "“Complete” vs “complementary”: read the label first",
+      "html": "<p>The most important words on the pack tell you whether the food can be fed on its own:</p><ul><li><strong>US:</strong> look for an AAFCO nutritional adequacy statement saying the food is <em>“complete and balanced”</em> for your pet’s life stage (growth, adult maintenance or all life stages).</li><li><strong>UK and EU:</strong> a <em>“complete”</em> food provides everything your pet needs on its own. A <em>“complementary”</em> food (many treats, toppers and some wet foods) must be fed alongside a complete food.</li></ul><p>Our guide to <a href=\"/blog/how-to-read-pet-food-labels/\">reading pet food labels</a> explains ingredient lists, naming rules and feeding guides in more detail.</p>"
+    },
+    {
+      "h2": "Feed for life stage and size",
+      "html": "<ul><li><strong>Puppies and kittens</strong> need food formulated for growth. Large-breed puppies often need a large-breed puppy food to support steady growth.</li><li><strong>Adults</strong> need an adult maintenance food matched to their activity level.</li><li><strong>Seniors</strong> may benefit from different calorie levels or textures. Ask your vet if your pet has health conditions.</li><li><strong>Special diets</strong> (kidney, urinary, weight loss, allergy) are often prescription or veterinary diets. Don’t switch without your vet’s advice.</li></ul>"
+    },
+    {
+      "h2": "How to work out the real cost per day",
+      "html": "<ol><li>Find the daily feeding amount for your pet’s weight on the pack (in grams or cups).</li><li>Divide the pack size by the daily amount to get the number of days it lasts.</li><li>Divide the price by the number of days. That’s your <strong>cost per day</strong>.</li></ol><p class=\"callout\">A cheaper bag isn’t always cheaper to feed. Energy-dense foods often have smaller daily portions, so compare cost per day, not price per kilo or pound.</p>"
+    },
+    {
+      "h2": "Ways to pay less for pet food",
+      "html": "<ul><li><strong>Subscribe and save:</strong> many online pet stores discount repeat deliveries. Check you can change or pause the order easily.</li><li><strong>Buy bigger bags</strong> if your pet will finish it before the best-before date, and store it in a sealed container.</li><li><strong>Loyalty schemes</strong> at pet stores and supermarkets can add up for regular buys.</li><li><strong>Avoid overfeeding:</strong> weigh portions. It saves money and helps keep your pet at a healthy weight.</li><li><strong>Change food gradually</strong> over about a week when switching to a better-value brand, to avoid upset stomachs.</li></ul><p>See more ideas in our guide to <a href=\"/save-on-pet-supplies/\">saving on pet supplies</a>.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Is grain-free dog food better?",
+      "a": "Not automatically. Most dogs digest grains well, and grain-free diets aren’t necessary unless your vet advises it. In the US, the FDA has investigated a possible link between some grain-free diets and a heart condition (DCM) in dogs, so talk to your vet before choosing one."
+    },
+    {
+      "q": "Can cats eat dog food?",
+      "a": "Not as their main diet. Cats have different nutritional needs, including taurine, so they need a complete cat food."
+    },
+    {
+      "q": "How do I switch my pet’s food?",
+      "a": "Mix a little of the new food into the old, increasing the amount gradually over about 7 days. Speak to your vet if your pet has a sensitive stomach or a medical diet."
+    }
+  ],
+  "sources": [
+    {
+      "title": "AAFCO: Association of American Feed Control Officials",
+      "url": "https://www.aafco.org/"
+    },
+    {
+      "title": "FEDIAF: European Pet Food Industry",
+      "url": "https://europeanpetfood.org/"
+    },
+    {
+      "title": "UK Pet Food",
+      "url": "https://www.ukpetfood.org/"
+    },
+    {
+      "title": "US FDA: Animal and Veterinary",
+      "url": "https://www.fda.gov/animal-veterinary"
+    }
+  ],
+  "related": [
+    "save-on-pet-supplies",
+    "dog-supplies",
+    "cat-supplies",
+    "pet-insurance"
+  ]
+}

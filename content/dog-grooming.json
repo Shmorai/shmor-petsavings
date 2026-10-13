@@ -1,0 +1,69 @@
+{
+  "updated": "2026-10-13",
+  "slug": "dog-grooming",
+  "short": "Dog grooming",
+  "title": "Dog Grooming Near You: How to Choose a Groomer",
+  "description": "How to choose a dog groomer near you: qualifications, insurance, dryers, handling and the questions to ask, plus grooming you can do at home to save money.",
+  "keywords": [
+    "dog grooming",
+    "dog groomer",
+    "dog groomer near me",
+    "pet grooming",
+    "mobile dog grooming",
+    "puppy grooming",
+    "dog grooming prices",
+    "cat grooming"
+  ],
+  "cardText": "Qualifications, insurance and the questions to ask a groomer.",
+  "eyebrow": "Local pet services",
+  "h1": "How to choose a dog groomer near you",
+  "intro": "A good groomer keeps your dog’s coat, skin, nails and ears healthy, and makes the experience calm. Here’s what to look for, whether you choose a salon, a home-based groomer or a mobile van.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1534361960057-19889db9621e",
+    "alt": "A freshly groomed white shih tzu puppy running on the grass",
+    "credit": "Joe Caione",
+    "creditUrl": "https://unsplash.com/@joeyc"
+  },
+  "searchPlaceholder": "Search grooming guides",
+  "partnersTitle": "Compare grooming providers",
+  "sections": [
+    {
+      "h2": "Salon, home-based or mobile?",
+      "html": "<ul><li><strong>Salons</strong> usually have more equipment and several groomers, but can be busy and noisy.</li><li><strong>Home-based groomers</strong> often work one-to-one, which suits nervous dogs.</li><li><strong>Mobile groomers</strong> come to your door in a fitted van: convenient, and often calmer for anxious or older dogs, but usually priced higher.</li></ul>"
+    },
+    {
+      "h2": "What to check",
+      "html": "<ul><li><strong>Qualifications:</strong> in the UK, look for recognised grooming qualifications such as City &amp; Guilds or iPET Network. In the US, look for certification from groups such as the National Dog Groomers Association of America.</li><li><strong>Insurance:</strong> public liability and care, custody and control cover.</li><li><strong>Drying:</strong> ask how dogs are dried. Unattended heated cage dryers can be risky, especially for flat-faced breeds.</li><li><strong>Handling:</strong> will they stop if your dog is stressed? Do they offer short puppy introduction sessions?</li><li><strong>Vaccinations:</strong> reputable groomers usually ask for proof that your dog is up to date.</li></ul>"
+    },
+    {
+      "h2": "How often does a dog need grooming?",
+      "html": "<p>It depends on the coat. Dogs with continuously growing coats (such as poodles, shih tzus and many doodles) often need a professional groom every 4–8 weeks. Short-coated dogs may only need regular brushing, nail trims and the occasional bath.</p>"
+    },
+    {
+      "h2": "Save money with grooming at home",
+      "html": "<ul><li>Brush between grooms to prevent matting, which can make appointments longer and pricier.</li><li>Learn to trim nails or ask your groomer for a quick nail-only appointment.</li><li>Clean teeth with a pet toothpaste: never human toothpaste, which can contain xylitol and is toxic to dogs.</li></ul>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Do dog groomers need a licence in the UK?",
+      "a": "No. Dog grooming isn’t licensed in the UK, which makes checking qualifications, insurance and reviews especially important."
+    },
+    {
+      "q": "When should a puppy first see a groomer?",
+      "a": "Many groomers offer short introduction visits once a puppy has finished its vaccinations. Ask your vet and groomer what they recommend."
+    }
+  ],
+  "sources": [
+    {
+      "title": "National Dog Groomers Association of America",
+      "url": "https://nationaldoggroomers.com/"
+    }
+  ],
+  "related": [
+    "local-pet-services",
+    "dog-walkers-and-pet-sitters",
+    "kennels-and-catteries",
+    "dog-supplies"
+  ]
+}

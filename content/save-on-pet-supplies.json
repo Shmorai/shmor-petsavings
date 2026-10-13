@@ -1,0 +1,114 @@
+{
+  "updated": "2026-10-13",
+  "slug": "save-on-pet-supplies",
+  "nav": "Save money",
+  "navOrder": 7,
+  "title": "How to Save Money on Pet Supplies, Food & Vet Bills",
+  "description": "Practical ways to save on pet food, supplies, prescriptions and vet bills: subscriptions, loyalty schemes, health plans, insurance tips and kit that lasts.",
+  "keywords": [
+    "pet deals",
+    "pet savings",
+    "save money on pet food",
+    "cheap pet supplies",
+    "pet discount",
+    "pet offers",
+    "cheap vet",
+    "vet bills",
+    "pet health plan",
+    "pet subscription"
+  ],
+  "cardText": "Subscriptions, loyalty schemes, prescriptions and health plans: real ways to pay less.",
+  "eyebrow": "Pet deals and savings",
+  "h1": "How to save money on pet supplies and care",
+  "intro": "Pets cost more than most owners plan for. These are the honest, repeatable ways to pay less, without cutting corners on your pet’s health.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1568640347023-a616a30bc3bd",
+    "alt": "Bone-shaped dog treats scattered on a pink background",
+    "credit": "okeykat",
+    "creditUrl": "https://unsplash.com/@okeykat"
+  },
+  "searchPlaceholder": "Search money-saving pet guides",
+  "partnersTitle": "Current pet deals from our partners",
+  "blocks": [
+    {
+      "type": "deals",
+      "title": "Where the biggest savings usually are",
+      "items": [
+        {
+          "icon": "repeat",
+          "title": "Repeat-delivery discounts",
+          "text": "Subscribe-and-save on food, litter and treatments you buy every month anyway.",
+          "slug": "pet-food",
+          "cta": "Compare food"
+        },
+        {
+          "icon": "shield",
+          "title": "The right insurance",
+          "text": "Pick the cover type and excess that match your budget, not just the lowest premium.",
+          "slug": "pet-insurance",
+          "cta": "Compare cover"
+        },
+        {
+          "icon": "percent",
+          "title": "Written prescriptions",
+          "text": "Shop around for flea, worming and long-term medicines.",
+          "slug": "flea-tick-and-worming",
+          "cta": "Learn more"
+        },
+        {
+          "icon": "star",
+          "title": "Loyalty schemes",
+          "text": "Points, stamps and member prices at pet stores and supermarkets add up on regular buys."
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "h2": "Food and treats",
+      "html": "<ul><li>Compare the <a href=\"/pet-food/\">cost per day</a>, not the bag price.</li><li>Use repeat-delivery discounts for food you buy regularly, but check you can pause or cancel easily.</li><li>Weigh portions. Overfeeding wastes money and can lead to weight problems and vet bills later.</li><li>Treats add up quickly: use part of the daily food allowance as training rewards.</li></ul>"
+    },
+    {
+      "h2": "Vet care",
+      "html": "<ul><li><strong>Prevention is cheaper than cure:</strong> vaccinations, parasite control and dental care help avoid bigger bills.</li><li><strong>Vet health plans</strong> spread routine costs monthly and often include discounts on other treatment.</li><li><strong>Ask for an estimate</strong> before non-urgent treatment, and ask about options.</li><li><strong>Charity vets</strong> such as PDSA and Blue Cross (UK) and low-cost clinics run by shelters (US) help eligible owners on low incomes.</li></ul>"
+    },
+    {
+      "h2": "Supplies and accessories",
+      "html": "<ul><li>Buy adult-size crates with dividers and adjustable harnesses so you don’t have to replace them as a puppy grows.</li><li>Choose beds with washable, replaceable covers.</li><li>Seasonal sales, such as Black Friday, are a good time for bigger items like beds, crates and cat trees.</li><li>Pre-loved kit (crates, carriers, hutches) can be good value. Clean and disinfect it thoroughly.</li></ul>"
+    },
+    {
+      "h2": "Services",
+      "html": "<ul><li>Learn to brush, clip nails and clean teeth at home to stretch the time between <a href=\"/dog-grooming/\">grooming appointments</a>.</li><li>Book <a href=\"/kennels-and-catteries/\">kennels and catteries</a> early for school holidays and Christmas, when they fill up.</li><li>Ask local <a href=\"/dog-walkers-and-pet-sitters/\">walkers and sitters</a> about regular-booking rates.</li></ul>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What is a vet health plan?",
+      "a": "A monthly payment plan offered by many vet practices that covers routine care such as vaccinations, check-ups and parasite treatments. It isn’t insurance, so it won’t cover accidents or illness."
+    },
+    {
+      "q": "Are pet food subscriptions cheaper?",
+      "a": "Repeat-delivery discounts can make regular buys cheaper, but compare the subscribed price with other retailers and check the cancellation terms."
+    }
+  ],
+  "sources": [
+    {
+      "title": "PDSA (UK)",
+      "url": "https://www.pdsa.org.uk/"
+    },
+    {
+      "title": "Blue Cross (UK)",
+      "url": "https://www.bluecross.org.uk/"
+    },
+    {
+      "title": "ASPCA: Pet care",
+      "url": "https://www.aspca.org/pet-care"
+    }
+  ],
+  "related": [
+    "pet-food",
+    "pet-insurance",
+    "flea-tick-and-worming",
+    "local-pet-services"
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "updated": "2026-10-13",
+  "slug": "kennels-and-catteries",
+  "short": "Kennels & catteries",
+  "title": "Boarding Kennels & Catteries: What to Check First",
+  "description": "How to choose boarding kennels and catteries: licences and star ratings, vaccination rules, what to pack, booking ahead for holidays and questions to ask.",
+  "keywords": [
+    "kennels",
+    "boarding kennels",
+    "kennels near me",
+    "cattery",
+    "catteries near me",
+    "dog boarding",
+    "cat boarding",
+    "pet boarding",
+    "pet hotel",
+    "dog hotel"
+  ],
+  "cardText": "Licences, star ratings, vaccinations and what to pack.",
+  "eyebrow": "Local pet services",
+  "h1": "Boarding kennels and catteries: what to check first",
+  "intro": "Going away? A good kennel or cattery makes it easier on everyone. Visit first, check the paperwork and book early for busy holiday periods.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1581888227599-779811939961",
+    "alt": "A golden retriever mix resting in a grey dog bed with a blanket",
+    "credit": "Jamie Street",
+    "creditUrl": "https://unsplash.com/@jamie452"
+  },
+  "searchPlaceholder": "Search boarding guides",
+  "partnersTitle": "Compare boarding options",
+  "sections": [
+    {
+      "h2": "Licences and star ratings (England)",
+      "html": "<p>In England, boarding kennels, catteries, home boarders and dog day care must hold a licence from the local council under the animal activities licensing rules. Councils give a <strong>star rating from 1 to 5</strong> based on inspection and welfare standards. Ask to see the licence and its rating. Scotland and Wales have their own licensing rules.</p><p>In the US, licensing depends on the state and city, and some boarding businesses choose to join or be accredited by industry groups such as IBPSA.</p>"
+    },
+    {
+      "h2": "Vaccinations and health rules",
+      "html": "<ul><li><strong>Dogs:</strong> most kennels need proof of up-to-date core vaccinations, and many also ask for kennel cough vaccination, given at least a couple of weeks before the stay.</li><li><strong>Cats:</strong> catteries usually ask for up-to-date vaccinations against cat flu and enteritis.</li><li>Flea and worm treatment shortly before boarding is often required.</li></ul>"
+    },
+    {
+      "h2": "What to look for on a visit",
+      "html": "<ul><li>Clean, dry, draught-free accommodation with good ventilation</li><li>Secure double-door entry so pets can’t escape</li><li>Separate spaces for cats, away from the sight and sound of dogs</li><li>Exercise routines, outdoor time and enrichment</li><li>How they handle feeding special diets and giving medication</li><li>Their arrangement with a local vet for emergencies</li></ul>"
+    },
+    {
+      "h2": "What to pack and when to book",
+      "html": "<ul><li>Your pet’s usual food, to avoid tummy upsets</li><li>Vaccination record, medication with written instructions, and your vet’s details</li><li>A familiar blanket or toy</li></ul><p>Book well ahead for summer holidays, half-term breaks and Christmas, when good kennels and catteries fill up first.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Is a home boarder or a kennel better?",
+      "a": "It depends on your pet. Home boarding can suit dogs who like company and a home routine. Kennels can suit dogs that need more space from other dogs. Visit both if you can."
+    },
+    {
+      "q": "How far ahead should I book a cattery?",
+      "a": "For school holidays and Christmas, book as early as you can, often several months ahead."
+    }
+  ],
+  "sources": [
+    {
+      "title": "GOV.UK: Animal activities licensing (England)",
+      "url": "https://www.gov.uk/government/publications/animal-activities-licensing-guidance-for-local-authorities"
+    },
+    {
+      "title": "International Cat Care: Choosing a cattery",
+      "url": "https://icatcare.org/"
+    },
+    {
+      "title": "IBPSA: International Boarding & Pet Services Association",
+      "url": "https://www.ibpsa.com/"
+    }
+  ],
+  "related": [
+    "local-pet-services",
+    "dog-walkers-and-pet-sitters",
+    "dog-grooming",
+    "pet-insurance"
+  ]
+}

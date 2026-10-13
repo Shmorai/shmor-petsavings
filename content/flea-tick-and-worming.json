@@ -1,0 +1,85 @@
+{
+  "updated": "2026-10-13",
+  "slug": "flea-tick-and-worming",
+  "short": "Flea & worming",
+  "title": "Flea, Tick & Worming Treatments: Compare & Save",
+  "description": "Compare flea, tick and worming treatments for dogs and cats: prescription vs over-the-counter, why dog flea products can be deadly to cats, and how to save.",
+  "keywords": [
+    "flea treatment",
+    "flea and tick",
+    "worming",
+    "wormer",
+    "dewormer",
+    "flea collar",
+    "tick treatment",
+    "lungworm",
+    "heartworm",
+    "flea spot on",
+    "flea tablets for dogs",
+    "cat flea treatment"
+  ],
+  "cardText": "Prescription vs over-the-counter, cat safety and ways to pay less.",
+  "eyebrow": "Pet health on a budget",
+  "h1": "Flea, tick and worming treatments: compare safely",
+  "intro": "Parasite control is one of the most regular pet costs. Choosing the right product, and buying it the right way, keeps your pet protected and can save you money.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1783141489057-bde41c89f607",
+    "alt": "A golden retriever scratching its side on a wooden platform",
+    "credit": "Priscilla Du Preez",
+    "creditUrl": "https://unsplash.com/@priscilladupreez"
+  },
+  "searchPlaceholder": "Search pet health guides",
+  "partnersTitle": "Compare pet pharmacy retailers",
+  "sections": [
+    {
+      "h2": "Keep cats safe: never use dog flea products on cats",
+      "html": "<p class=\"callout\"><strong>Important:</strong> some dog flea treatments contain <strong>permethrin</strong>, which is highly toxic to cats and can be fatal. Only use products labelled for cats on cats, and keep cats away from recently treated dogs as the label directs. If you think your cat has been exposed, contact a vet straight away.</p>"
+    },
+    {
+      "h2": "Prescription vs over-the-counter",
+      "html": "<ul><li><strong>Prescription treatments</strong> are often broader, covering several parasites in one product (such as fleas, ticks and worms, or heartworm in the US). Your vet needs to examine your pet to prescribe them.</li><li><strong>Over-the-counter treatments</strong> from pet shops and supermarkets can work well for specific parasites. Check the active ingredient, the weight band and what it covers.</li></ul>"
+    },
+    {
+      "h2": "Which parasites matter where you live",
+      "html": "<ul><li><strong>Fleas</strong> are common everywhere. Most of the flea life cycle happens in the home, so treat all pets in the household and wash bedding.</li><li><strong>Ticks</strong> can spread diseases such as Lyme disease. Check your pet after walks in long grass or woodland.</li><li><strong>Lungworm</strong> (UK and parts of Europe) is spread by slugs and snails. Not every wormer covers it.</li><li><strong>Heartworm</strong> (much of the US and southern Europe) is spread by mosquitoes. Prevention needs a vet prescription in the US.</li></ul>"
+    },
+    {
+      "h2": "How to pay less for prescriptions",
+      "html": "<ul><li><strong>Ask for a written prescription.</strong> In the UK, vets must provide one if you ask, though they may charge for it. You can then compare prices at online vet pharmacies.</li><li><strong>Vet health plans:</strong> many practices offer a monthly plan covering parasite treatments, vaccinations and check-ups. Compare the yearly total with buying separately.</li><li><strong>Buy the right weight band</strong> and multi-dose packs if your pet will stay in that band.</li><li>Only buy from registered pharmacies and retailers. Very cheap “imported” products may be fake.</li></ul>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How often should I treat my dog or cat for fleas and worms?",
+      "a": "It depends on the product, your pet’s lifestyle and where you live. Follow the product label and ask your vet for a parasite plan that suits your pet."
+    },
+    {
+      "q": "Can I buy pet prescriptions online?",
+      "a": "Yes, from a registered online vet pharmacy with a valid prescription from your vet. Check the pharmacy is properly registered in your country."
+    }
+  ],
+  "sources": [
+    {
+      "title": "RCVS: Royal College of Veterinary Surgeons (UK)",
+      "url": "https://www.rcvs.org.uk/"
+    },
+    {
+      "title": "ESCCAP: European Scientific Counsel Companion Animal Parasites",
+      "url": "https://www.esccap.org/"
+    },
+    {
+      "title": "American Heartworm Society",
+      "url": "https://www.heartwormsociety.org/"
+    },
+    {
+      "title": "International Cat Care: Permethrin poisoning",
+      "url": "https://icatcare.org/"
+    }
+  ],
+  "related": [
+    "save-on-pet-supplies",
+    "pet-insurance",
+    "cat-supplies",
+    "dog-supplies"
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "updated": "2026-10-13",
+  "slug": "blog/fireworks-and-pets",
+  "type": "post",
+  "date": "2026-10-13",
+  "title": "Fireworks and Pets: How to Keep Dogs and Cats Calm",
+  "description": "How to prepare dogs, cats and small pets for fireworks season: safe dens, walk timing, noise, microchips and when to speak to your vet about anxiety.",
+  "eyebrow": "Seasonal safety",
+  "h1": "Fireworks and pets: how to keep dogs and cats calm",
+  "intro": "Bonfire Night, Diwali, New Year’s Eve and the Fourth of July can be frightening for pets. A little preparation makes a big difference.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1636289571953-da28b660ee2d",
+    "alt": "A man and his dog watching fireworks in the night sky",
+    "credit": "Tharun Kumar",
+    "creditUrl": "https://unsplash.com/@tharunk908"
+  },
+  "keywords": [
+    "fireworks and dogs",
+    "dog scared of fireworks",
+    "cat fireworks",
+    "bonfire night pets",
+    "fourth of july dogs",
+    "new year fireworks pets"
+  ],
+  "cardText": "Safe dens, walk timing and how to help nervous pets through fireworks season.",
+  "sections": [
+    {
+      "h2": "Before fireworks season",
+      "html": "<ul><li><strong>Check microchip details are up to date.</strong> Frightened pets can bolt. In England, both dogs and cats (over 20 weeks) must be microchipped.</li><li><strong>Make a safe den:</strong> a quiet, covered spot with bedding and familiar toys, in a room away from windows.</li><li><strong>Talk to your vet early</strong> if your pet has been very anxious before. There are treatments and behaviour plans that work best when started in advance.</li></ul>"
+    },
+    {
+      "h2": "On the night",
+      "html": "<ul><li>Walk dogs in daylight, before the fireworks start.</li><li>Keep cats indoors, with a litter tray, and lock the cat flap.</li><li>Close curtains and play the TV or music to soften bangs and flashes.</li><li>Stay calm and let your pet hide if they want to. Don’t force them out.</li><li>Never take a dog to a fireworks display.</li></ul>"
+    },
+    {
+      "h2": "Small pets",
+      "html": "<p>Rabbits and guinea pigs living outside can be badly frightened. If you can, bring hutches into a quiet room, shed or garage, or cover part of the hutch with a blanket while leaving ventilation, and add extra bedding to burrow into.</p>"
+    },
+    {
+      "h2": "When to get help",
+      "html": "<p>Signs of fear include trembling, hiding, panting, pacing, toileting indoors and trying to escape. If your pet is very distressed, or the fear is getting worse each year, speak to your vet. They may refer you to an accredited behaviourist.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Should I comfort my dog during fireworks?",
+      "a": "Yes. Calm comfort doesn’t reinforce fear. Stay relaxed, let your dog come to you and give them a safe place to hide."
+    },
+    {
+      "q": "Can I give my dog something to calm them?",
+      "a": "Only use medication your vet has prescribed for your pet. Never give human medicines, as some are toxic to pets."
+    }
+  ],
+  "sources": [
+    {
+      "title": "RSPCA: Fireworks and pets",
+      "url": "https://www.rspca.org.uk/adviceandwelfare/fireworks"
+    },
+    {
+      "title": "GOV.UK: Get your dog or cat microchipped",
+      "url": "https://www.gov.uk/get-your-dog-cat-microchipped"
+    },
+    {
+      "title": "AVMA: Pets and fireworks (US)",
+      "url": "https://www.avma.org/"
+    }
+  ],
+  "related": [
+    "kennels-and-catteries",
+    "dog-walkers-and-pet-sitters",
+    "pet-insurance"
+  ]
+}

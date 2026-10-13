@@ -1,0 +1,79 @@
+{
+  "updated": "2026-10-13",
+  "slug": "blog/winter-and-holiday-pet-hazards",
+  "type": "post",
+  "date": "2026-10-13",
+  "title": "Winter and Christmas Pet Hazards to Watch Out For",
+  "description": "The winter and holiday hazards most likely to harm pets: antifreeze, chocolate, grapes and raisins, xylitol, lilies, decorations and road salt, and what to do.",
+  "eyebrow": "Seasonal safety",
+  "h1": "Winter and Christmas hazards for pets",
+  "intro": "Cold weather and festive treats bring hazards that send many pets to the vet each year. Here are the ones to know, and what to do if your pet gets into something.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1551308075-d5f542da6386",
+    "alt": "A short-coated dog sitting in the snow wearing a knitted hat",
+    "credit": "Tadeusz Lakota",
+    "creditUrl": "https://unsplash.com/@tadekl"
+  },
+  "keywords": [
+    "antifreeze poisoning",
+    "pet poisoning",
+    "chocolate dog",
+    "grapes dogs",
+    "xylitol dogs",
+    "christmas dangers for pets",
+    "lilies cats",
+    "winter dog safety"
+  ],
+  "cardText": "Antifreeze, festive foods, decorations and grit: what to keep away from pets.",
+  "sections": [
+    {
+      "h2": "Antifreeze",
+      "html": "<p>Antifreeze often contains <strong>ethylene glycol</strong>, which tastes sweet and is extremely poisonous to cats and dogs, even in small amounts. Store it sealed and out of reach, clean up drips straight away and consider pet-safer products. Contact a vet immediately if you suspect your pet has licked any. Fast treatment matters.</p>"
+    },
+    {
+      "h2": "Festive foods",
+      "html": "<ul><li><strong>Chocolate:</strong> contains theobromine, which is toxic to dogs. Dark chocolate is the most dangerous.</li><li><strong>Grapes, raisins, currants and sultanas:</strong> can cause kidney failure in dogs. Watch for mince pies, Christmas pudding, cake and stollen.</li><li><strong>Xylitol:</strong> a sweetener in some sugar-free sweets, gum, baked goods and peanut butters. It’s very toxic to dogs.</li><li><strong>Onions, garlic, leeks and chives:</strong> harmful to dogs and cats, including in stuffing and gravy.</li><li><strong>Cooked bones and fatty leftovers:</strong> bones can splinter, and fatty food can trigger stomach upsets or pancreatitis.</li></ul>"
+    },
+    {
+      "h2": "Plants and decorations",
+      "html": "<ul><li><strong>Lilies</strong> are highly toxic to cats, including the pollen and vase water.</li><li><strong>Holly and mistletoe</strong> can cause stomach upsets.</li><li><strong>Tinsel, ribbon and string</strong> can cause dangerous blockages if swallowed, especially by cats.</li><li>Keep wires, batteries and glass baubles out of reach.</li></ul>"
+    },
+    {
+      "h2": "Cold weather",
+      "html": "<ul><li>Wipe paws after walks on gritted or salted roads, which can irritate pads and be harmful if licked.</li><li>Older, small and thin-coated dogs may benefit from a coat.</li><li>Bang on the car bonnet before driving: cats sometimes shelter near warm engines.</li><li>Bring outdoor rabbits and guinea pigs somewhere sheltered and frost-free, with extra bedding.</li></ul>"
+    },
+    {
+      "h2": "If you think your pet has eaten something toxic",
+      "html": "<p class=\"callout\">Contact your vet or an emergency vet straight away, even if your pet seems fine. Don’t try to make your pet sick unless a vet tells you to. Take the packaging with you if you can. In the US, the ASPCA Animal Poison Control Center offers a 24-hour line (a fee may apply).</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How much chocolate is dangerous for a dog?",
+      "a": "It depends on the type of chocolate and your dog’s size. Dark and baking chocolate are the most dangerous. Call your vet with the type and amount eaten."
+    },
+    {
+      "q": "Are poinsettias poisonous to pets?",
+      "a": "They can cause mild mouth and stomach irritation, but are much less dangerous than often thought. Lilies are far more dangerous for cats."
+    }
+  ],
+  "sources": [
+    {
+      "title": "ASPCA Animal Poison Control",
+      "url": "https://www.aspca.org/pet-care/animal-poison-control"
+    },
+    {
+      "title": "PDSA: Pet care advice (UK)",
+      "url": "https://www.pdsa.org.uk/"
+    },
+    {
+      "title": "Blue Cross: Pet advice (UK)",
+      "url": "https://www.bluecross.org.uk/"
+    }
+  ],
+  "related": [
+    "pet-insurance",
+    "cat-supplies",
+    "kennels-and-catteries"
+  ]
+}

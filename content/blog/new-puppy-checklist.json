@@ -1,0 +1,73 @@
+{
+  "updated": "2026-10-13",
+  "slug": "blog/new-puppy-checklist",
+  "type": "post",
+  "date": "2026-10-13",
+  "title": "New Puppy Checklist: What to Buy and What to Arrange",
+  "description": "A complete new puppy checklist: the supplies to buy before day one, plus vet registration, vaccinations, microchip details, insurance and early training.",
+  "eyebrow": "New pet owners",
+  "h1": "New puppy checklist: what to buy and what to arrange",
+  "intro": "Bringing a puppy home is exciting and busy. Use this checklist to get the essentials ready, without buying things you don’t need yet.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1760448904758-3a88fd0073b9",
+    "alt": "A golden retriever puppy looking up at the camera",
+    "credit": "Haberdoedas",
+    "creditUrl": "https://unsplash.com/@haberdoedas"
+  },
+  "keywords": [
+    "new puppy checklist",
+    "puppy essentials",
+    "what to buy for a new puppy",
+    "puppy shopping list",
+    "puppy supplies",
+    "first week with a puppy"
+  ],
+  "cardText": "Supplies to buy, admin to sort and what can wait.",
+  "sections": [
+    {
+      "h2": "Supplies to buy before day one",
+      "html": "<ul><li>The same puppy food the breeder or rescue was using, to avoid stomach upsets</li><li>Food and water bowls</li><li>A collar with an ID tag, plus a lightweight lead</li><li>A bed with a washable cover, and a crate or pen if you plan to use one</li><li>Puppy-safe chew toys</li><li>Poop bags and pet-safe cleaning spray for accidents</li><li>A soft brush and puppy shampoo</li><li>A secure way to travel in the car</li></ul>"
+    },
+    {
+      "h2": "Admin to arrange",
+      "html": "<ul><li><strong>Register with a vet</strong> and book a health check in the first week or so.</li><li><strong>Vaccinations:</strong> ask your vet about the first course and when your puppy can safely go out.</li><li><strong>Microchip:</strong> in the UK, puppies must be microchipped by 8 weeks old by the breeder. Make sure the database details are transferred to you.</li><li><strong>Insurance:</strong> <a href=\"/pet-insurance/\">compare pet insurance</a> early, as conditions that show before cover starts are usually excluded.</li><li><strong>Parasite control:</strong> ask your vet about <a href=\"/flea-tick-and-worming/\">flea and worm treatment</a> for puppies.</li></ul>"
+    },
+    {
+      "h2": "What can wait",
+      "html": "<ul><li>Adult-size harnesses and coats: your puppy will grow quickly.</li><li>Expensive beds: many puppies chew them. Start with something washable and cheap to replace.</li><li>Lots of toys: a few good ones, rotated, are enough.</li></ul>"
+    },
+    {
+      "h2": "The first weeks",
+      "html": "<ul><li>Start toilet training with frequent trips outside, especially after sleeping, eating and play.</li><li>Begin gentle socialisation: new sounds, people and handling, at your puppy’s pace.</li><li>Look for a puppy class with a qualified, reward-based trainer.</li><li>Plan for care when you’re out: see our guide to <a href=\"/dog-walkers-and-pet-sitters/\">dog walkers and sitters</a>.</li></ul>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "When can my puppy go outside?",
+      "a": "It depends on your puppy’s vaccination schedule. Your vet will tell you when it’s safe to walk in public places."
+    },
+    {
+      "q": "Should I buy a crate for my puppy?",
+      "a": "A crate isn’t essential, but many owners find one helpful for toilet training and as a safe den. Buy the adult size with a divider so it grows with your puppy."
+    }
+  ],
+  "sources": [
+    {
+      "title": "GOV.UK: Get your dog or cat microchipped",
+      "url": "https://www.gov.uk/get-your-dog-cat-microchipped"
+    },
+    {
+      "title": "The Kennel Club (UK)",
+      "url": "https://www.thekennelclub.org.uk/"
+    },
+    {
+      "title": "American Kennel Club",
+      "url": "https://www.akc.org/"
+    }
+  ],
+  "related": [
+    "dog-supplies",
+    "pet-insurance",
+    "pet-food"
+  ]
+}

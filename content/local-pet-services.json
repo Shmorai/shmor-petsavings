@@ -1,0 +1,148 @@
+{
+  "updated": "2026-10-13",
+  "slug": "local-pet-services",
+  "nav": "Local services",
+  "navOrder": 6,
+  "title": "Local Pet Services: Find Trusted Pet Businesses",
+  "description": "How to find recommended local pet businesses: groomers, dog walkers, pet sitters, kennels, catteries, vets and independent pet shops, and what to check.",
+  "keywords": [
+    "pet services near me",
+    "local pet shop",
+    "pet shop near me",
+    "independent pet shop",
+    "local pet suppliers",
+    "dog groomer near me",
+    "dog walker near me",
+    "pet sitter near me",
+    "kennels near me",
+    "vet near me",
+    "dog daycare"
+  ],
+  "cardText": "Groomers, walkers, sitters, kennels, vets and independent pet shops near you.",
+  "eyebrow": "Recommended local suppliers",
+  "h1": "Local pet services: how to find businesses you can trust",
+  "intro": "From independent pet shops to groomers and home boarders, good local pet businesses are worth their weight in treats. Here’s how to find them, and what to check before you hand over your pet.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1494947665470-20322015e3a8",
+    "alt": "Four dogs on leads out on a walk in the park",
+    "credit": "Matt Nelson",
+    "creditUrl": "https://unsplash.com/@mnelson"
+  },
+  "searchPlaceholder": "Search local pet service guides",
+  "partnersTitle": "Recommended local and national providers",
+  "blocks": [
+    {
+      "type": "deals",
+      "title": "Choose a service",
+      "items": [
+        {
+          "icon": "star",
+          "title": "Dog groomers",
+          "slug": "dog-grooming",
+          "cta": "What to check"
+        },
+        {
+          "icon": "users",
+          "title": "Dog walkers and pet sitters",
+          "slug": "dog-walkers-and-pet-sitters",
+          "cta": "What to check"
+        },
+        {
+          "icon": "calendar",
+          "title": "Kennels and catteries",
+          "slug": "kennels-and-catteries",
+          "cta": "What to check"
+        },
+        {
+          "icon": "store",
+          "title": "Independent pet shops",
+          "text": "Local advice, refill stations and specialist foods. Many offer loyalty cards and local delivery.",
+          "href": "#independent-pet-shops-and-local-suppliers",
+          "cta": "Read more"
+        },
+        {
+          "icon": "stethoscope",
+          "title": "Vets",
+          "text": "Use official finders and check practice accreditation before you register.",
+          "href": "#finding-a-vet",
+          "cta": "Read more"
+        }
+      ]
+    },
+    {
+      "type": "steps",
+      "title": "Five checks before you book any pet service",
+      "items": [
+        {
+          "icon": "shield",
+          "title": "Licence",
+          "text": "Where one is needed (for example, home boarders and kennels in England), ask to see it."
+        },
+        {
+          "icon": "check",
+          "title": "Insurance",
+          "text": "Ask whether they hold public liability and care, custody and control cover."
+        },
+        {
+          "icon": "star",
+          "title": "Reviews and references",
+          "text": "Read recent reviews on more than one site, and ask for references."
+        },
+        {
+          "icon": "pin",
+          "title": "A visit first",
+          "text": "Meet them, see the premises and watch how they handle your pet."
+        },
+        {
+          "icon": "heart",
+          "title": "Emergency plan",
+          "text": "Ask how they’d reach you and your vet if something went wrong."
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "h2": "Independent pet shops and local suppliers",
+      "html": "<p>Local pet shops, feed merchants, aquatic centres and pet bakeries often stock specialist foods, give hands-on fitting for harnesses and carriers, and can order things in. When comparing them with online stores, look at:</p><ul><li>Price per day for your regular food, including any loyalty scheme</li><li>Local delivery or click-and-collect</li><li>Refill stations and bulk buys for litter, hay and bird seed</li><li>Expert advice for small pets, fish and reptiles</li></ul>"
+    },
+    {
+      "h2": "Finding a vet",
+      "html": "<ul><li><strong>UK:</strong> use the RCVS <em>Find a Vet</em> search. Practices in the RCVS Practice Standards Scheme are inspected against set standards.</li><li><strong>US:</strong> AAHA-accredited hospitals are evaluated against the American Animal Hospital Association’s standards.</li><li><strong>Cats:</strong> look for a Cat Friendly Clinic accredited by International Cat Care.</li><li>Ask about out-of-hours emergency cover, health plans and how they share estimates.</li></ul>"
+    },
+    {
+      "h2": "Recommend a local pet business",
+      "html": "<p>We’re building a list of recommended local pet suppliers and services across the US, UK and Europe. If you run a pet business, or know one that deserves a mention, <a href=\"https://shmor.ai/partners/\">get in touch</a>. Listings will be clearly labelled, and we never publish reviews we haven’t verified.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Do dog groomers need a licence?",
+      "a": "In the UK, dog grooming isn’t licensed, so look for qualifications, insurance and good reviews. In the US, requirements vary by state and city."
+    },
+    {
+      "q": "Do home dog boarders need a licence?",
+      "a": "In England, yes. Home boarding, kennels, catteries and dog day care need a licence from the local council, which gives a star rating from 1 to 5."
+    }
+  ],
+  "sources": [
+    {
+      "title": "RCVS Find a Vet (UK)",
+      "url": "https://findavet.rcvs.org.uk/"
+    },
+    {
+      "title": "AAHA: American Animal Hospital Association",
+      "url": "https://www.aaha.org/"
+    },
+    {
+      "title": "International Cat Care: Cat Friendly Clinic",
+      "url": "https://catfriendlyclinic.org/"
+    }
+  ],
+  "related": [
+    "dog-grooming",
+    "dog-walkers-and-pet-sitters",
+    "kennels-and-catteries",
+    "save-on-pet-supplies"
+  ]
+}

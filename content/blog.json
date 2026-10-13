@@ -1,0 +1,28 @@
+{
+  "updated": "2026-10-13",
+  "slug": "blog",
+  "type": "blog",
+  "nav": "Blog",
+  "navOrder": 8,
+  "title": "Pet Blog: Money-Saving Tips & Pet Care Guides",
+  "description": "Practical pet advice for dog, cat and small pet owners: seasonal safety, reading food labels, new pet checklists and simple ways to save on pet costs.",
+  "eyebrow": "Tips · Guides · Seasonal advice",
+  "h1": "Pet tips and guides",
+  "intro": "Practical, checked answers to the pet questions owners search for most, from fireworks season to reading a food label.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1623387641168-d9803ddd3f35",
+    "alt": "A dog and a cat lying together in the grass",
+    "credit": "Andrew S",
+    "creditUrl": "https://unsplash.com/@sita2"
+  },
+  "search": false,
+  "listTitle": "Latest posts",
+  "keywords": [
+    "pet blog",
+    "pet tips",
+    "dog tips",
+    "cat tips",
+    "pet care advice"
+  ],
+  "cardText": "Seasonal safety, food labels, checklists and money-saving tips."
+}

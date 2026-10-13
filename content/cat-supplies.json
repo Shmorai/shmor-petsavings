@@ -1,0 +1,85 @@
+{
+  "updated": "2026-10-13",
+  "slug": "cat-supplies",
+  "nav": "Cats",
+  "navOrder": 4,
+  "title": "Cat Supplies Guide: Litter, Scratchers & Carriers",
+  "description": "How to choose cat supplies: litter types compared, how many litter trays you need, scratching posts, carriers and cat-safe toys for kittens and adult cats.",
+  "keywords": [
+    "cat supplies",
+    "cat accessories",
+    "cat litter",
+    "litter tray",
+    "litter box",
+    "scratching post",
+    "cat tree",
+    "cat carrier",
+    "cat toys",
+    "kitten essentials",
+    "cat flap"
+  ],
+  "cardText": "Litter types compared, scratchers, carriers and cat-safe toys.",
+  "eyebrow": "Cat supplies",
+  "h1": "Cat supplies: litter, scratchers, carriers and more",
+  "intro": "Cats are particular about their litter, their scratching spots and their space. Getting the basics right saves money and keeps your cat happier at home.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1599907370087-e0955afcb920",
+    "alt": "A white and brown cat resting on a cat tree",
+    "credit": "Shubham Sharma",
+    "creditUrl": "https://unsplash.com/@theeclatcreative"
+  },
+  "searchPlaceholder": "Search cat guides, e.g. “litter”",
+  "partnersTitle": "Compare cat supply retailers",
+  "sections": [
+    {
+      "h2": "Cat litter types compared",
+      "html": "<div class=\"table-wrap\"><table><thead><tr><th>Litter</th><th>Good to know</th></tr></thead><tbody><tr><td><strong>Clumping clay</strong></td><td>Easy to scoop just the used part, so a bag can go further. Can be dusty and heavy.</td></tr><tr><td><strong>Silica crystals</strong></td><td>Absorbent and light. Some cats dislike the texture.</td></tr><tr><td><strong>Wood or paper pellets</strong></td><td>Often made from recycled material. Pellets break down to sawdust when wet.</td></tr><tr><td><strong>Plant-based clumping</strong> (corn, wheat, tofu)</td><td>Lightweight and clumping. Check whether it can be composted or flushed under your local rules before doing so.</td></tr></tbody></table></div><p>Change litter gradually, mixing the new into the old. A cat that dislikes its litter may toilet elsewhere, which costs far more to fix.</p>"
+    },
+    {
+      "h2": "How many litter trays?",
+      "html": "<p>A common rule of thumb from cat welfare experts is <strong>one tray per cat, plus one</strong>, placed in quiet spots away from food and water. Cats in the same home often prefer not to share.</p>"
+    },
+    {
+      "h2": "Scratching posts and cat trees",
+      "html": "<ul><li>Choose a post tall enough for your cat to stretch fully, and heavy enough not to wobble.</li><li>Offer both upright and flat scratchers: cats have preferences.</li><li>Place scratchers near sleeping spots and doorways, where cats like to mark territory.</li></ul>"
+    },
+    {
+      "h2": "Carriers and vet visits",
+      "html": "<p>A sturdy carrier that opens from the top as well as the front makes it easier to lift your cat out gently at the vet. Leave the carrier out at home with a blanket inside, so it isn’t only linked with trips.</p>"
+    },
+    {
+      "h2": "Cat-safe toys and plants",
+      "html": "<ul><li>Put away string, ribbon and elastic bands after play: they can be dangerous if swallowed.</li><li><strong>Lilies are highly toxic to cats</strong>, including the pollen and vase water. Keep them out of homes with cats.</li><li>Wand toys, balls and food puzzles give indoor cats exercise.</li></ul>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Do cats need to be microchipped?",
+      "a": "In England, cats over 20 weeks old must be microchipped, and owners must keep their details up to date. Elsewhere it’s strongly recommended."
+    },
+    {
+      "q": "What’s the cheapest cat litter to use?",
+      "a": "Compare the cost per week of use, not the bag price. Clumping litters let you remove only soiled litter, which can make a bag last longer."
+    }
+  ],
+  "sources": [
+    {
+      "title": "International Cat Care",
+      "url": "https://icatcare.org/"
+    },
+    {
+      "title": "GOV.UK: Get your dog or cat microchipped",
+      "url": "https://www.gov.uk/get-your-dog-cat-microchipped"
+    },
+    {
+      "title": "ASPCA: Toxic and non-toxic plants",
+      "url": "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants"
+    }
+  ],
+  "related": [
+    "pet-food",
+    "pet-insurance",
+    "kennels-and-catteries",
+    "flea-tick-and-worming"
+  ]
+}

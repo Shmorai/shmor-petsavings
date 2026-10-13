@@ -1,0 +1,87 @@
+{
+  "updated": "2026-10-13",
+  "slug": "small-pet-supplies",
+  "nav": "Small pets",
+  "navOrder": 5,
+  "title": "Small Pet Supplies: Rabbits, Guinea Pigs & More",
+  "description": "What rabbits, guinea pigs, hamsters, birds and fish really need: housing space, hay, diet, company and set-up costs to compare before you buy a small pet.",
+  "keywords": [
+    "small pet supplies",
+    "rabbit",
+    "rabbit hutch",
+    "rabbit food",
+    "guinea pig",
+    "guinea pig cage",
+    "hamster",
+    "hamster cage",
+    "bird food",
+    "bird cage",
+    "aquarium",
+    "fish tank",
+    "hay"
+  ],
+  "cardText": "Rabbits, guinea pigs, hamsters, birds and fish: housing, diet and company.",
+  "eyebrow": "Small pets",
+  "h1": "Small pet supplies: what rabbits, guinea pigs and others need",
+  "intro": "Small pets aren’t always small commitments. Most need more space, more company and more hay than the starter kits in shops suggest.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1548767797-d8c844163c4c",
+    "alt": "Two guinea pigs sharing a carrot",
+    "credit": "Bonnie Kittle",
+    "creditUrl": "https://unsplash.com/@bonniekdesign"
+  },
+  "searchPlaceholder": "Search small pet guides",
+  "partnersTitle": "Compare small pet retailers",
+  "sections": [
+    {
+      "h2": "Rabbits",
+      "html": "<ul><li><strong>Company:</strong> rabbits are social and are best kept with at least one other compatible, neutered rabbit.</li><li><strong>Space:</strong> they need room to hop, stretch and stand up, plus a secure run. A hutch alone isn’t enough.</li><li><strong>Diet:</strong> good-quality hay or grass should make up most of the diet, with fresh greens and a small portion of pellets.</li><li><strong>Health:</strong> vaccinations (such as for myxomatosis and RHD in the UK and Europe) and regular dental checks matter.</li></ul>"
+    },
+    {
+      "h2": "Guinea pigs",
+      "html": "<ul><li>Guinea pigs can’t make their own vitamin C, so they need it from their daily diet.</li><li>They’re sociable and do best with another guinea pig. In Switzerland, keeping a single guinea pig alone is not allowed under animal welfare law.</li><li>Like rabbits, they need unlimited hay and plenty of floor space.</li></ul>"
+    },
+    {
+      "h2": "Hamsters, gerbils and mice",
+      "html": "<ul><li><strong>Syrian hamsters</strong> live alone and can fight if housed together.</li><li>Choose a large enclosure with deep bedding for burrowing and a solid-surface wheel big enough that your pet’s back stays straight.</li><li>Gerbils and mice are usually kept in same-sex pairs or groups.</li></ul>"
+    },
+    {
+      "h2": "Birds and fish",
+      "html": "<ul><li><strong>Birds:</strong> buy the largest cage you can fit, with perches of varied widths. Fumes from overheated non-stick (PTFE) cookware can be deadly to birds, so keep birds away from the kitchen.</li><li><strong>Fish:</strong> set up and “cycle” a tank before adding fish so beneficial bacteria can build up. A test kit, heater (for tropical fish) and filter are essentials, not extras.</li></ul>"
+    },
+    {
+      "h2": "Compare the full set-up cost",
+      "html": "<p>Starter kits can look like good value but are often too small. Price up the housing you’ll actually need, plus bedding, hay or food, vet care and a second animal for companionship, before you buy.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Can rabbits live alone?",
+      "a": "Rabbit welfare charities recommend keeping rabbits in pairs or groups, as they are social animals. Neutering helps bonded pairs live together happily."
+    },
+    {
+      "q": "Do guinea pigs need vitamin C?",
+      "a": "Yes. Guinea pigs can’t make vitamin C, so they need it every day from fresh vegetables and a suitable guinea pig food."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Rabbit Welfare Association & Fund (UK)",
+      "url": "https://rabbitwelfare.co.uk/"
+    },
+    {
+      "title": "RSPCA: Pet care advice",
+      "url": "https://www.rspca.org.uk/adviceandwelfare/pets"
+    },
+    {
+      "title": "ASPCA: Pet care",
+      "url": "https://www.aspca.org/pet-care"
+    }
+  ],
+  "related": [
+    "pet-food",
+    "save-on-pet-supplies",
+    "pet-insurance",
+    "local-pet-services"
+  ]
+}
