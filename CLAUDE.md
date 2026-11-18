@@ -1,6 +1,6 @@
 # PetSavings (petsavings.shmor.ai)
 
-A Shmor marketplace (shared rules in `../../CLAUDE.md`): its own brand, design and SEO. Pet supplies, food, insurance and accessories compared for dogs, cats and small pets, with savings guides and help finding trusted local pet services. Repo: `Shmorai/shmor-petsavings` (private until launch). Status: **building**.
+A Shmor marketplace (shared rules in `../../CLAUDE.md`): its own brand, design and SEO. Pet supplies, food, insurance and accessories compared for dogs, cats and small pets, with savings guides and help finding trusted local pet services. Repo: `Shmorai/shmor-petsavings` (private until launch). Status: **live**, with Raw Paws Pet Food (CJ) referral links (see "Affiliate partners").
 
 ## Where things are
 | What | Where |
@@ -31,6 +31,11 @@ node tools/serve.js <port>    # local preview (see the "petsavings" preview conf
 ```
 After changing `shmor-site.json`, also run `node tools/sync-network.js` in `../../shmor-ai`.
 
+## Affiliate partners (live)
+- **Raw Paws Pet Food** (CJ advertiser 7127091, joined; added 2026-11-18). US-only frozen raw food, treats and chews; 10%, 30-day cookie. Terms: no "Raw Paws" in our URLs (slugs/images `cj7127091-*`), CJ images only, no brand bidding, no branded social accounts. **Every mention says "US delivery only"**; raw-food copy keeps the vet + hygiene caution and "check it's labelled complete".
+- Codes for the **PetSavings property (PID 101926900)**: home (evergreen), frozen, treats, chews, autoship, sale, dogtreats; banners "Fresh, Healthy Pet Food" 300x250 ×2 (`b-fresh-300`, `b-shop-300`; self-hosted PNGs in `assets/img/partners/`; no 728x90 exists for this advertiser).
+- Placed: home card; pet-food (card, raw-food paragraph + banner, Auto Ship link in "Ways to pay less"); save-on-pet-supplies (card, autoship + sale links + banner in Food and treats); dog-supplies (chews link in Toys); posts: food labels (frozen link), new puppy (dog treats link + chews button), winter hazards (treats instead of leftovers).
+
 ## Referral links
-None yet. Candidates: online pet stores, pet insurers, pet pharmacies, food subscription brands and pet-sitting platforms with affiliate programmes (Awin/CJ/Impact). Paste exact links from the user only. Every page already has a `partnersTitle`, so adding slugs to `"partners"` is enough.
+Candidates for more: online pet stores, pet insurers, pet pharmacies, food subscription brands and pet-sitting platforms with affiliate programmes (Awin/CJ/Impact). Paste exact links from the user only. Every page already has a `partnersTitle`, so adding slugs to `"partners"` is enough.
 Add to `shmor-site.json` → `"links"`, list slugs in a page's `"partners"` (or add `"offers"`), rebuild, sync the master, then commit both repos.

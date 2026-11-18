@@ -66,7 +66,7 @@
   "sections": [
     {
       "h2": "Food and treats",
-      "html": "<ul><li>Compare the <a href=\"/pet-food/\">cost per day</a>, not the bag price.</li><li>Use repeat-delivery discounts for food you buy regularly, but check you can pause or cancel easily.</li><li>Weigh portions. Overfeeding wastes money and can lead to weight problems and vet bills later.</li><li>Treats add up quickly: use part of the daily food allowance as training rewards.</li></ul>"
+      "html": "<ul><li>Compare the <a href=\"/pet-food/\">cost per day</a>, not the bag price.</li><li>Use repeat-delivery discounts for food you buy regularly, but check you can pause or cancel easily.</li><li>Weigh portions. Overfeeding wastes money and can lead to weight problems and vet bills later.</li><li>Treats add up quickly: use part of the daily food allowance as training rewards.</li></ul>\n<p>Repeat-delivery schemes, such as [[link:cj7127091-autoship|Raw Paws Auto Ship &amp; Save]], and sale sections like [[link:cj7127091-sale|Raw Paws’ pet products on sale]] are worth checking if you already buy that food (US delivery only).</p>\n[[banner:cj7127091-b-shop-300|cj7127091-b-shop-300]]"
     },
     {
       "h2": "Vet care",
@@ -110,5 +110,8 @@
     "pet-insurance",
     "flea-tick-and-worming",
     "local-pet-services"
+  ],
+  "partners": [
+    "cj7127091-sale"
   ]
 }

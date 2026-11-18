@@ -36,7 +36,7 @@
   "sections": [
     {
       "h2": "Types of pet food",
-      "html": "<div class=\"table-wrap\"><table><thead><tr><th>Type</th><th>Good to know</th></tr></thead><tbody><tr><td><strong>Dry (kibble)</strong></td><td>Usually the lowest cost per day. Keeps well once opened. Easy to measure and use in puzzle feeders.</td></tr><tr><td><strong>Wet (cans, pouches, trays)</strong></td><td>Higher moisture, which can help cats who drink little. Usually costs more per day than dry.</td></tr><tr><td><strong>Mixed feeding</strong></td><td>Part dry, part wet. Reduce each portion so the total matches your pet’s daily needs.</td></tr><tr><td><strong>Fresh / cooked subscriptions</strong></td><td>Delivered, portioned meals, often frozen or chilled. Convenient but usually the most expensive option.</td></tr><tr><td><strong>Raw</strong></td><td>Raw meat diets carry a risk of bacteria such as <em>Salmonella</em> for pets and people. Talk to your vet first and follow strict hygiene.</td></tr></tbody></table></div>"
+      "html": "<div class=\"table-wrap\"><table><thead><tr><th>Type</th><th>Good to know</th></tr></thead><tbody><tr><td><strong>Dry (kibble)</strong></td><td>Usually the lowest cost per day. Keeps well once opened. Easy to measure and use in puzzle feeders.</td></tr><tr><td><strong>Wet (cans, pouches, trays)</strong></td><td>Higher moisture, which can help cats who drink little. Usually costs more per day than dry.</td></tr><tr><td><strong>Mixed feeding</strong></td><td>Part dry, part wet. Reduce each portion so the total matches your pet’s daily needs.</td></tr><tr><td><strong>Fresh / cooked subscriptions</strong></td><td>Delivered, portioned meals, often frozen or chilled. Convenient but usually the most expensive option.</td></tr><tr><td><strong>Raw</strong></td><td>Raw meat diets carry a risk of bacteria such as <em>Salmonella</em> for pets and people. Talk to your vet first and follow strict hygiene.</td></tr></tbody></table></div>\n<p>If you and your vet decide raw feeding suits your pet, US owners can buy frozen raw food from partners such as [[link:cj7127091-frozen|Raw Paws Pet Food]] (US delivery only). Check the label says it is complete and balanced, keep it frozen, and wash hands, bowls and surfaces after handling.</p>\n[[banner:cj7127091-b-fresh-300|cj7127091-b-fresh-300]]"
     },
     {
       "h2": "“Complete” vs “complementary”: read the label first",
@@ -52,7 +52,7 @@
     },
     {
       "h2": "Ways to pay less for pet food",
-      "html": "<ul><li><strong>Subscribe and save:</strong> many online pet stores discount repeat deliveries. Check you can change or pause the order easily.</li><li><strong>Buy bigger bags</strong> if your pet will finish it before the best-before date, and store it in a sealed container.</li><li><strong>Loyalty schemes</strong> at pet stores and supermarkets can add up for regular buys.</li><li><strong>Avoid overfeeding:</strong> weigh portions. It saves money and helps keep your pet at a healthy weight.</li><li><strong>Change food gradually</strong> over about a week when switching to a better-value brand, to avoid upset stomachs.</li></ul><p>See more ideas in our guide to <a href=\"/save-on-pet-supplies/\">saving on pet supplies</a>.</p>"
+      "html": "<ul><li><strong>Subscribe and save:</strong> many online pet stores discount repeat deliveries. Check you can change or pause the order easily.</li><li><strong>Buy bigger bags</strong> if your pet will finish it before the best-before date, and store it in a sealed container.</li><li><strong>Loyalty schemes</strong> at pet stores and supermarkets can add up for regular buys.</li><li><strong>Avoid overfeeding:</strong> weigh portions. It saves money and helps keep your pet at a healthy weight.</li><li><strong>Change food gradually</strong> over about a week when switching to a better-value brand, to avoid upset stomachs.</li></ul><p>See more ideas in our guide to <a href=\"/save-on-pet-supplies/\">saving on pet supplies</a>.</p>\n<p>Subscribe-and-save deliveries can help too, for example [[link:cj7127091-autoship|Raw Paws Auto Ship &amp; Save]] (US only). Compare the cost per day and check how easy it is to pause or cancel.</p>"
     }
   ],
   "faqs": [
@@ -92,5 +92,8 @@
     "dog-supplies",
     "cat-supplies",
     "pet-insurance"
+  ],
+  "partners": [
+    "cj7127091-frozen"
   ]
 }
