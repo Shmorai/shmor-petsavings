@@ -1,0 +1,74 @@
+{
+  "eyebrow": "Pet insurance",
+  "title": "Pet Insurance: Pre-existing Conditions & Waiting Periods",
+  "description": "Pet insurance pre-existing conditions and waiting periods explained: what exclusions usually mean, what to check before you buy and how to compare policies.",
+  "h1": "Pet insurance: pre-existing conditions and waiting periods explained",
+  "intro": "Two phrases cause most surprises when owners claim: “pre-existing condition” and “waiting period”. Knowing what they mean before you buy helps you compare policies fairly and avoid a refused claim.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1654895716780-b4664497420d",
+    "alt": "A person holding a small dog in their arms",
+    "credit": "Anya Prygunova",
+    "creditUrl": "https://unsplash.com/@aprygunova"
+  },
+  "keywords": [
+    "pet insurance pre-existing conditions",
+    "pet insurance waiting period",
+    "what does pet insurance not cover",
+    "pet insurance exclusions",
+    "hereditary conditions pet insurance",
+    "is pet insurance worth it",
+    "pet insurance deductible",
+    "compare pet insurance"
+  ],
+  "cardText": "What pre-existing condition exclusions and waiting periods mean for your pet.",
+  "sections": [
+    {
+      "h2": "What counts as a pre-existing condition?",
+      "html": "<p>The National Association of Insurance Commissioners (NAIC), the US body of state insurance regulators, says most pet insurance companies exclude pre-existing conditions as well as hereditary and congenital conditions. Exact definitions differ between insurers, so read how each policy words them and ask when a condition counts as pre-existing, for example if symptoms or a diagnosis came before the start date.</p>"
+    },
+    {
+      "h2": "Waiting periods before cover begins",
+      "html": "<p>The NAIC notes that many companies have waiting periods before benefits begin. Lengths are set by each insurer, and they can differ for illness, accidents or other treatments, so check them in the policy documents. Buying cover early, ideally when your pet is young and healthy, means fewer conditions to be excluded. Our <a href=\"/blog/new-puppy-checklist/\">new puppy checklist</a> lists insurance among the things to arrange early.</p>"
+    },
+    {
+      "h2": "Other limits to compare",
+      "html": "<p>The NAIC also highlights that policies include exclusions, different levels of coverage, deductibles and payment limits. When comparing, look at:</p><ul><li>The annual or per-condition limit</li><li>The deductible or excess and any co-payment</li><li>Whether routine or wellness care is included or sold separately</li><li>Breed-related or hereditary exclusions</li></ul><p>Our <a href=\"/pet-insurance/\">pet insurance guide</a> explains policy types without ranking insurers.</p>"
+    },
+    {
+      "h2": "Consumer protections for pet insurance",
+      "html": "<p>In the US, the NAIC adopted a Pet Insurance Model Act at its Summer 2022 National Meeting. It addresses definitions, disclosures and consumer protections, including pre-existing conditions and wellness programmes. States decide whether to adopt it, so rules vary; check your state insurance department. Elsewhere, check the relevant financial regulator and complaints body.</p>"
+    },
+    {
+      "h2": "Before you buy: a short checklist",
+      "html": "<ul><li>Ask for the full policy wording, not just the summary.</li><li>Ask how the insurer defines pre-existing and hereditary conditions.</li><li>Note the waiting periods and start dates.</li><li>Keep your pet’s vet records up to date.</li></ul><p>Insurance is one way to manage vet costs; our <a href=\"/save-on-pet-supplies/\">savings guide</a> covers everyday costs.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Does pet insurance cover pre-existing conditions?",
+      "a": "The NAIC says most pet insurers exclude them. Check each policy’s definition and wording before you buy."
+    },
+    {
+      "q": "How long is a pet insurance waiting period?",
+      "a": "It varies by insurer and the type of claim. The NAIC says many companies have waiting periods, so confirm yours in the policy documents."
+    },
+    {
+      "q": "Are hereditary conditions covered?",
+      "a": "Many insurers exclude hereditary and congenital conditions, according to the NAIC, but terms differ, so read the policy."
+    }
+  ],
+  "sources": [
+    {
+      "title": "NAIC: Pet insurance",
+      "url": "https://content.naic.org/insurance-topics/pet-insurance"
+    }
+  ],
+  "related": [
+    "pet-insurance",
+    "blog/new-puppy-checklist"
+  ],
+  "updated": "2026-11-18",
+  "date": "2026-11-18",
+  "slug": "blog/pet-insurance-pre-existing-conditions-waiting-periods",
+  "type": "post"
+}
