@@ -1,0 +1,82 @@
+{
+  "eyebrow": "Safety guide",
+  "title": "Pet Food Recalls: How to Check and What to Do",
+  "description": "Pet food recalls explained for US and UK owners: where to check official alerts, which batch details to keep, when to call the vet and how to report problems.",
+  "h1": "Pet food recalls: how to check, what to do and how to report a problem",
+  "intro": "A recall notice can be alarming, but it does not always mean a pet has been harmed. Knowing where to look and what to keep makes the difference between a quick check and a stressful scramble.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1714068691210-073dc52c6c1d",
+    "alt": "A brown and white dog eating from a food bowl",
+    "credit": "Ayla Verschueren",
+    "creditUrl": "https://unsplash.com/@moob"
+  },
+  "keywords": [
+    "pet food recall",
+    "dog food recall",
+    "cat food recall",
+    "how to check pet food recall",
+    "report pet food complaint",
+    "pet food batch code",
+    "fda pet food advisories",
+    "uk pet food recall"
+  ],
+  "cardText": "Where to check recalls, what to keep, and when to call the vet.",
+  "sections": [
+    {
+      "h2": "Keep the packaging and batch code",
+      "html": "<p>The US Food and Drug Administration (FDA) advises keeping the original packaging, because dry food is often moved to another container and the bag holds the lot number, production date and plant details. UK Pet Food, the UK industry body, gives the same advice: keep the packaging, especially the batch code and expiry date, so you can tell whether your product is affected. Photograph the label when you open a new bag as a backup.</p>"
+    },
+    {
+      "h2": "Where to check for recalls",
+      "html": "<p>In the US, the FDA publishes animal food advisories separately from recall notices issued by companies, and company recalls are listed under its recalls pages. In the UK, UK Pet Food points owners to the Food Standards Agency (FSA) website for official alerts, and to the brand's own website for notices. Recalls vary by country and product, so check your own market. Sign up for the manufacturer's alerts if they offer them.</p>"
+    },
+    {
+      "h2": "What to do if your food is affected",
+      "html": "<p>UK Pet Food's guidance for owners is to stop feeding the product, even if you are unsure, and follow the manufacturer's instructions for returns or disposal. Watch for signs such as vomiting, diarrhoea (diarrhea), lethargy or loss of appetite, and contact your vet if you are worried or see symptoms. This is general information, not veterinary advice. Keep pets and children away from the affected food, wash bowls and hands, and tell the vet which product, batch and amount your pet ate. Our <a href=\"/blog/how-to-read-pet-food-labels/\">pet food label guide</a> explains the information on a bag.</p>"
+    },
+    {
+      "h2": "How to report a problem with pet food",
+      "html": "<p>In the US, the FDA asks owners to report a pet food complaint through its Safety Reporting Portal. Helpful details include the exact product name, lot number, best-by date, UPC, purchase date and place, how it was stored, and a description of the problem. If a pet became ill, include species, age, weight, symptoms, when they started and your vet's details. The FDA reviews each report to decide whether follow-up is needed, and does not pay for private lab tests or vet bills. In the UK, report the issue to the manufacturer first and see the FSA website for current guidance.</p>"
+    },
+    {
+      "h2": "Cutting your risk before a recall happens",
+      "html": "<p>Buy from sources you trust, check the packaging is intact, store food as the label says, and check the food looks and smells normal. Raw and frozen foods need extra hygiene care with bowls and surfaces; see our <a href=\"/pet-food/\">pet food guide</a>. If you are changing brands, do it gradually and check the label says \"complete and balanced\". For ways to spend less without cutting corners, read <a href=\"/save-on-pet-supplies/\">save on pet supplies</a>.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Does a recall mean my pet will get sick?",
+      "a": "Not necessarily. UK Pet Food notes that recalls are often precautionary and do not always mean harm has occurred. Stop feeding the product and ask your vet if you are concerned."
+    },
+    {
+      "q": "Where do I report a problem with pet food in the US?",
+      "a": "The FDA directs owners to its Safety Reporting Portal. Keep the packaging, lot number and dates before you report."
+    },
+    {
+      "q": "What details are on the bag that I should note?",
+      "a": "The lot or batch number, best-by or expiry date, UPC and where and when you bought it. These identify whether your product is part of a recall."
+    }
+  ],
+  "sources": [
+    {
+      "title": "FDA: How to Report a Pet Food Complaint",
+      "url": "https://www.fda.gov/animal-veterinary/report-problem/how-report-pet-food-complaint"
+    },
+    {
+      "title": "FDA: Outbreaks and Advisories (animal and veterinary)",
+      "url": "https://www.fda.gov/animal-veterinary/news-events/outbreaks-and-advisories"
+    },
+    {
+      "title": "UK Pet Food: Pet food recall guidance for owners",
+      "url": "https://www.ukpetfood.org/new-trade-zone/safety-and-standards/pet-food-recall-guidance-for-owners.html"
+    }
+  ],
+  "related": [
+    "pet-food",
+    "blog/how-to-read-pet-food-labels"
+  ],
+  "updated": "2026-11-20",
+  "date": "2026-11-20",
+  "slug": "blog/pet-food-recalls-what-to-do",
+  "type": "post"
+}
