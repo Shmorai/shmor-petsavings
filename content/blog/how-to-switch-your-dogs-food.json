@@ -1,0 +1,79 @@
+{
+  "eyebrow": "Pet food",
+  "title": "How to Switch Your Dog's Food Safely, Step by Step",
+  "description": "How to change your dog's food without tummy upsets: a gradual 7 to 14 day plan from PDSA and Blue Cross, what to do if they refuse it and when to call a vet.",
+  "h1": "How to switch your dog's food without upsetting their tummy",
+  "intro": "Whether you are moving to a different brand, a cheaper bag or a new life-stage recipe, changing your dog's food overnight can cause diarrhoea or put them off eating. UK charities PDSA and Blue Cross both recommend a gradual switch. Here is how it works, and how to stay on budget while you do it.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1714068691210-073dc52c6c1d",
+    "alt": "A brown and white dog eating from a food bowl",
+    "credit": "Ayla Verschueren",
+    "creditUrl": "https://unsplash.com/@moob"
+  },
+  "keywords": [
+    "how to switch dog food",
+    "changing dog food gradually",
+    "transition dog food",
+    "dog food switch diarrhoea",
+    "dog food transition chart",
+    "switching dog food diarrhea",
+    "how long to change dog food",
+    "new dog food schedule"
+  ],
+  "cardText": "A gradual plan for changing your dog's food, plus what to do if it goes wrong.",
+  "sections": [
+    {
+      "h2": "Why you should change dog food gradually",
+      "html": "<p>PDSA, the UK veterinary charity, advises changing food gradually over a couple of weeks to prevent problems. A sudden change can cause tummy upsets or leave a dog refusing to eat. The exception is when your vet tells you to change straight away, for example for a medical diet.</p>"
+    },
+    {
+      "h2": "A two-week plan (PDSA)",
+      "html": "<p>PDSA's timetable looks like this:</p><ul><li><strong>Days 1 to 3:</strong> give the usual meal, with a small teaspoon of the new food on a separate plate.</li><li><strong>Days 4 to 10:</strong> mix a very small amount of the new food into the old, then slowly increase the new and decrease the old if all goes well.</li><li><strong>Days 10 to 14:</strong> once your dog has eaten the mixed food happily for at least a week, phase out the old food.</li></ul>"
+    },
+    {
+      "h2": "A faster one-week plan (Blue Cross)",
+      "html": "<p>For a healthy adult dog, Blue Cross suggests a shorter split: about 25% new food on days 1 and 2, 50% on days 3 and 4, 75% on days 5 and 6, and 100% new food from day 7. Puppies, seniors and dogs with sensitive stomachs usually do better with the slower approach, so if in doubt, go slower. Our <a href=\"/blog/new-puppy-checklist/\">new puppy checklist</a> covers what to feed and when.</p>"
+    },
+    {
+      "h2": "What to do if your dog refuses it or has a loose stool",
+      "html": "<p>PDSA says that if a dog will not eat the mix, step back to the last level they accepted and stay there for a few days before trying again. Loose stools can also mean you have moved too fast. If diarrhoea or vomiting is severe, lasts more than a day or two, or comes with tiredness or blood, call your vet, because the change may not be the cause. This is general information, not veterinary advice.</p>"
+    },
+    {
+      "h2": "Check the new food, and keep the cost down",
+      "html": "<p>Look for a statement that the food is \"complete\" for your dog's life stage; <a href=\"/blog/how-to-read-pet-food-labels/\">our label guide</a> explains what the wording means. Because a switch takes one to two weeks, buy a small bag first and keep the old one until you have finished the transition, rather than committing to a large bag you might not use. For more ways to spend less, see <a href=\"/save-on-pet-supplies/\">save on pet supplies</a> and our <a href=\"/pet-food/\">pet food guide</a>.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How long does it take to switch dog food?",
+      "a": "PDSA suggests about two weeks, and Blue Cross suggests a quicker seven-day plan for healthy adult dogs. Slower is safer for puppies, seniors and sensitive dogs."
+    },
+    {
+      "q": "Can I switch my dog's food overnight?",
+      "a": "Only if your vet tells you to. Otherwise a sudden change can cause tummy upsets or refusal to eat (PDSA)."
+    },
+    {
+      "q": "What if my dog gets diarrhoea after the change?",
+      "a": "Go back to the last mix they handled well and hold it for a few days. If it is severe, lasts more than a day or two or comes with other symptoms, contact your vet."
+    }
+  ],
+  "sources": [
+    {
+      "title": "PDSA: Changing your dog's food",
+      "url": "https://www.pdsa.org.uk/pet-help-and-advice/looking-after-your-pet/puppies-dogs/changing-your-dogs-food"
+    },
+    {
+      "title": "Blue Cross: Feeding your dog",
+      "url": "https://www.bluecross.org.uk/advice/dog/food-and-weight/feeding-your-dog"
+    }
+  ],
+  "related": [
+    "pet-food",
+    "blog/how-to-read-pet-food-labels",
+    "save-on-pet-supplies"
+  ],
+  "date": "2026-11-23",
+  "updated": "2026-11-23",
+  "slug": "blog/how-to-switch-your-dogs-food",
+  "type": "post"
+}
