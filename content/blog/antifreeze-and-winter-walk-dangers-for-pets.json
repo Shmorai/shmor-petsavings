@@ -1,0 +1,88 @@
+{
+  "title": "Antifreeze Poisoning in Pets: Winter Dangers to Know",
+  "description": "Antifreeze poisoning in dogs and cats: why ethylene glycol is so dangerous, signs to spot, what to do at once and how to keep pets safe this winter.",
+  "eyebrow": "Pet health",
+  "h1": "Antifreeze poisoning in dogs and cats: the winter danger to know about",
+  "intro": "Antifreeze tastes sweet to dogs and cats, and a small amount can be fatal. With frosty mornings and cars being de-iced, now is the time to store it safely and know exactly what to do if your pet gets into some. This guide uses advice from the PDSA and the ASPCA.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1591946614720-90a587da4a36",
+    "alt": "A golden retriever mix holding a striped plush elephant toy",
+    "credit": "FLOUFFY",
+    "creditUrl": "https://unsplash.com/@theflouffy"
+  },
+  "keywords": [
+    "antifreeze poisoning dogs",
+    "antifreeze poisoning cats",
+    "ethylene glycol pets",
+    "pet safe antifreeze",
+    "dog ate antifreeze what to do",
+    "winter pet dangers",
+    "antifreeze symptoms dog",
+    "cat drank antifreeze",
+    "pet poison winter"
+  ],
+  "cardText": "Why antifreeze is so dangerous for pets, the warning signs and what to do straight away.",
+  "sections": [
+    {
+      "h2": "Why antifreeze is so dangerous for pets",
+      "html": "<p>Most antifreeze contains <strong>ethylene glycol</strong>. The ASPCA says it damages the nervous system and kidneys, that its sweet taste attracts pets and that even a small amount can be fatal. The PDSA says both dogs and cats are drawn to it.</p><p>It is not only in car radiators. The PDSA lists screen wash, brake fluid, radiator fluid and garden water features as other possible sources, and the ASPCA names items such as portable basketball hoop bases, winterised toilets, some inks and some latex paints.</p>"
+    },
+    {
+      "h2": "Signs of antifreeze poisoning",
+      "html": "<p>Signs can start fast, so don't wait for them. According to the PDSA they can appear in as little as an hour, often starting with wobbliness and weakness that then eases off. The ASPCA says pets may be markedly ill within six to twelve hours. Watch for:</p><ul><li>unsteadiness or appearing drunk</li><li>vomiting and low energy</li><li>drinking and urinating more, followed by passing less urine one to three days later (a sign of kidney failure)</li><li>loss of appetite</li><li>fast or difficult breathing, seizures or collapse</li></ul><p>Early signs can be missed, and a pet that seems better may still be at risk of kidney damage.</p>"
+    },
+    {
+      "h2": "What to do if your pet has had antifreeze",
+      "html": "<ol><li><strong>Call your vet immediately</strong>, or your nearest emergency vet, even if your pet seems fine. The PDSA says treatment gives the best chance when it starts early, and the outlook is better within 12 hours of exposure.</li><li><strong>Take the container</strong> or its label with you, so the vet can see the ingredients and estimate how much was swallowed.</li><li><strong>Don't try to make your pet sick</strong> at home unless a vet tells you to.</li><li>In the US, you can also call the ASPCA Animal Poison Control Center on 888-426-4435.</li></ol><p>Treatment may include medicine to induce vomiting (only useful very early), an antidote, washing paws and coat and a fluid drip to support the kidneys. Keep the emergency vet's number on the fridge, and check whether your pet insurance covers out-of-hours treatment: our <a href=\"/pet-insurance/\">pet insurance guide</a> explains what to look for.</p>"
+    },
+    {
+      "h2": "How to keep pets safe from antifreeze",
+      "html": "<ul><li>Store antifreeze and screen wash in <strong>labelled, sealed containers</strong> on a high shelf.</li><li><strong>Clean up spills</strong> straight away, and throw away empty containers, since rainwater left in them can still poison a pet.</li><li>Keep dogs away from parked cars and driveways where leaks or spills may have collected, and keep cats in at times if you know a neighbour is topping up cars.</li><li>Consider <strong>pet-safe antifreeze</strong>, which uses propylene glycol. The ASPCA says it has a much wider margin of safety, but advises keeping pets away from all chemicals. Some antifreezes contain a bittering agent, but the PDSA says this is not fully reliable.</li></ul>"
+    },
+    {
+      "h2": "More winter walk checks",
+      "html": "<p>While you are checking the garage, think about the rest of the cold-weather routine: wipe paws and tummies after walks, so grit and de-icer aren't licked off, keep an eye on frozen ponds and ensure your pet can always get to fresh water. Our guides to <a href=\"/blog/winter-and-holiday-pet-hazards/\">winter and holiday pet hazards</a> and <a href=\"/blog/fireworks-and-pets/\">fireworks and pets</a> cover more, and the <a href=\"/dog-supplies/\">dog supplies</a> page has what to look for in coats and towels. This is general information, not veterinary advice: if your pet seems unwell, call your vet.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How much antifreeze is dangerous to a dog or cat?",
+      "a": "The ASPCA says a small amount can be fatal, so treat any suspected exposure as an emergency and call a vet straight away rather than waiting for signs."
+    },
+    {
+      "q": "How long does antifreeze poisoning take to show?",
+      "a": "The PDSA says signs can develop in as little as an hour, while the ASPCA says pets may be markedly ill within six to twelve hours. Don't wait for symptoms before calling the vet."
+    },
+    {
+      "q": "Is pet-safe antifreeze really safe?",
+      "a": "Products based on propylene glycol have a much wider margin of safety, says the ASPCA, but it still advises keeping pets away from all chemicals, including pet-safe antifreeze."
+    },
+    {
+      "q": "Does pet insurance cover antifreeze poisoning?",
+      "a": "Emergency treatment for an accident or poisoning is commonly covered, but limits, excess and waiting periods vary. Read your policy wording or ask your insurer."
+    }
+  ],
+  "sources": [
+    {
+      "title": "PDSA: Antifreeze poisoning in dogs",
+      "url": "https://www.pdsa.org.uk/pet-help-and-advice/pet-health-hub/conditions/antifreeze-poisoning-in-dogs"
+    },
+    {
+      "title": "PDSA: Antifreeze poisoning in cats",
+      "url": "https://www.pdsa.org.uk/pet-help-and-advice/pet-health-hub/conditions/antifreeze-ethylene-glycol-poisoning"
+    },
+    {
+      "title": "ASPCA: Digging deeper, getting the facts on the dangers of antifreeze and your pets",
+      "url": "https://www.aspca.org/news/digging-deeper-getting-facts-dangers-antifreeze-and-your-pets"
+    }
+  ],
+  "related": [
+    "blog/winter-and-holiday-pet-hazards",
+    "pet-insurance",
+    "dog-supplies"
+  ],
+  "date": "2026-11-25",
+  "updated": "2026-11-25",
+  "slug": "blog/antifreeze-and-winter-walk-dangers-for-pets",
+  "type": "post"
+}
