@@ -1,0 +1,92 @@
+{
+  "date": "2026-11-27",
+  "updated": "2026-11-27",
+  "slug": "blog/is-my-dog-or-cat-overweight",
+  "type": "post",
+  "title": "Is My Dog or Cat Overweight? A Simple Body Check",
+  "description": "How to tell if your dog or cat is overweight with a simple rib, waist and tummy check, why extra weight matters and how to start a plan with your vet.",
+  "eyebrow": "Pet health",
+  "h1": "Is my dog or cat overweight? A simple hands-on check you can do at home",
+  "intro": "Christmas treats, cold-weather walks cut short and a bowl topped up out of habit: winter is when many pets quietly put on weight. The scales only tell half the story. Here is the quick body check vets and charities recommend, why it matters and how to start a plan without spending a fortune.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1714068691210-073dc52c6c1d",
+    "alt": "A brown and white dog eating from a food bowl",
+    "credit": "Ayla Verschueren",
+    "creditUrl": "https://unsplash.com/@moob"
+  },
+  "sections": [
+    {
+      "h2": "The 3-part check: ribs, waist, tummy",
+      "html": "<p>The UK charity PDSA recommends looking and feeling rather than relying on weight alone, because the right weight depends on breed, build and size. Stand over your pet in a good light and check:</p><ul><li><strong>Ribs:</strong> you should be able to feel them with a light touch. If you only feel them when pressing firmly, your pet may be overweight.</li><li><strong>Waist:</strong> seen from above and from the side, a dog should have a visible waist.</li><li><strong>Tummy and tail:</strong> the belly should tuck in rather than bulge, and there should be no build-up of fat at the base of the tail.</li></ul><p>The American Animal Hospital Association (AAHA) gives the same picture for dogs and cats: ribs easy to feel without excess fat covering them, a clearly discernible waist and an abdomen that tucks up towards the hips. Vets formalise this as a <strong>body condition score</strong>; PDSA has a free body condition guide for dogs, and the WSAVA publishes charts for dogs and cats. Some breeds, such as sighthounds, are naturally lean, so ask your vet what is right for yours.</p>"
+    },
+    {
+      "h2": "Why extra weight matters",
+      "html": "<p>PDSA links obesity in dogs to arthritis, diabetes, breathing problems, back and cruciate ligament problems, heatstroke, problems under anaesthetic, some cancers and a shorter life. Vets and charities also warn about similar risks for cats. Spotting it early is far cheaper and kinder than treating those conditions later. It can also affect cover: check how your insurer treats weight-related conditions in our <a href=\"/blog/pet-insurance-pre-existing-conditions-waiting-periods/\">pre-existing conditions guide</a>.</p>"
+    },
+    {
+      "h2": "Step one: talk to your vet",
+      "html": "<p>PDSA says weight loss plans should be individual to your dog, and that you should contact your vet if you suspect a medical cause such as an underactive thyroid or Cushing's disease. Many practices run free or low-cost <strong>weight clinics</strong> with scales you can use. Do not put a pet on a crash diet: cats in particular can become seriously ill if they stop eating, so get advice before cutting back sharply.</p>"
+    },
+    {
+      "h2": "Cutting calories without wasting money",
+      "html": "<ul><li><strong>Measure meals</strong> with scales or a proper measuring cup instead of scooping by eye. Ask your vet or vet nurse how much to give.</li><li><strong>Cut back on treats</strong> and count them as part of the daily allowance. Use a portion of the dog's normal kibble as rewards.</li><li><strong>Consider a weight-management food</strong> if your vet recommends one. PDSA says this is often the best option. Compare options with our <a href=\"/pet-food/\">pet food guide</a> and check the label for \"complete\" using our <a href=\"/blog/how-to-read-pet-food-labels/\">label guide</a>.</li><li><strong>Switch foods gradually</strong> over days: see <a href=\"/blog/how-to-switch-your-dogs-food/\">how to switch your dog's food</a>.</li><li><strong>Add activity</strong> that suits age, breed and health: an extra short walk, sniffing games or play. For cats, play sessions and puzzle feeders.</li></ul><p>More ways to trim costs are in our <a href=\"/save-on-pet-supplies/\">save on pet supplies</a> guide.</p>"
+    },
+    {
+      "h2": "Keep checking",
+      "html": "<p>Weigh your pet regularly, ideally on the same scales, and keep doing so once they reach their target weight so it stays off. Repeat the rib-and-waist check monthly. If your pet is gaining or losing weight without explanation, or has stopped eating, see your vet promptly.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How can I tell if my dog is overweight at home?",
+      "a": "Feel the ribs: you should find them with a light touch. Look from above and the side for a waist, and check the belly tucks in. Fat pockets at the neck, shoulders, hips or tail base are signs of extra weight, according to PDSA."
+    },
+    {
+      "q": "Is my cat overweight if I can't feel its ribs?",
+      "a": "Probably, if you need firm pressure to feel them and there is no visible waist. AAHA describes an ideal cat as having ribs easily felt without excess fat covering them. A vet can score your cat properly."
+    },
+    {
+      "q": "How fast should my pet lose weight?",
+      "a": "Ask your vet for a plan. Weight loss should be gradual and individual, and cats must not be put on a sudden crash diet."
+    },
+    {
+      "q": "Does pet insurance cover obesity?",
+      "a": "It depends on the policy. Many insurers treat conditions linked to weight as ordinary illnesses, but terms vary, so check your policy wording."
+    }
+  ],
+  "sources": [
+    {
+      "title": "PDSA: Obesity in dogs",
+      "url": "https://www.pdsa.org.uk/pet-help-and-advice/pet-health-hub/conditions/obesity-in-dogs"
+    },
+    {
+      "title": "PDSA: Your dog's Body Condition Score",
+      "url": "https://www.pdsa.org.uk/get-involved/our-campaigns/weigh-up/your-dog/your-dogs-body-shape/your-dogs-body-condition-score"
+    },
+    {
+      "title": "AAHA: Is my pet overweight?",
+      "url": "https://www.aaha.org/your-pet/pet-owner-education/ask-aaha/is-my-pet-overweight/"
+    },
+    {
+      "title": "WSAVA: Global nutrition guidelines and body condition score charts",
+      "url": "https://wsava.org/global-guidelines/global-nutrition-guidelines/"
+    }
+  ],
+  "related": [
+    "pet-food",
+    "save-on-pet-supplies",
+    "blog/how-to-switch-your-dogs-food"
+  ],
+  "keywords": [
+    "is my dog overweight",
+    "is my cat overweight",
+    "dog body condition score",
+    "how to tell if cat is fat",
+    "pet obesity",
+    "dog weight loss",
+    "cat weight loss",
+    "overweight dog ribs",
+    "pet weight check"
+  ],
+  "cardText": "A simple rib, waist and tummy check, plus how to start a weight plan with your vet."
+}

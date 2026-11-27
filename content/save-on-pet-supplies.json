@@ -109,7 +109,8 @@
     "pet-food",
     "pet-insurance",
     "flea-tick-and-worming",
-    "local-pet-services"
+    "local-pet-services",
+    "blog/is-my-dog-or-cat-overweight"
   ],
   "partners": [
     "cj7127091-sale"
